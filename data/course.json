@@ -4,7 +4,13 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
