@@ -32,10 +32,10 @@ PERCENTAGES
 
 INDIVIDUAL GRADE 
 
-- Reading responses (13) (15%)
-- Attendance and participation (15%)
-- Short paper on key concepts (3–4 pages)(15%)
-- In-class presentation of one assigned reading (10%)
+- *Reading responses (13) (15%)*
+- *Attendance and participation (15%)*
+- *Short paper on key concepts (3–4 pages) (15%)*
+- *In-class presentation of one assigned reading (10%)*
 
 {{< tdclose >}}{{< tdopen >}}
 55%
