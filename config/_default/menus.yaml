@@ -11,3 +11,7 @@ leftnav:
   name: Readings and Videos
   url: /pages/readings-and-videos
   weight: 30
+- identifier: 296c842d-58cb-4454-9eea-8185c5a41f76
+  name: Assignments
+  url: /pages/assignments
+  weight: 40
