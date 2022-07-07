@@ -21,3 +21,7 @@ This class brings anthropological concepts to bear on contemporary movements for
 The first, introductory, part of the course provides a brief overview of European colonialism in Africa, and of available justice mechanisms for repair. This introduction is followed by two modules, on the Algerian and Belgian cases respectively. Each case will be an opportunity for us to examine reparative justice mechanisms through the lens of various anthropological concepts. We will contribute critical reflections based on these concepts to the efforts of our partner practitioners.
 
 Readings are drawn primarily from anthropology, but also from history, political philosophy, and law. Through this combination of conceptual and applied work, students will contribute to current social justice efforts while also learning to articulate critical perspectives on movements for reparations for historical violence.
+
+## Course Requirements and Grading
+
+For more information on the activities in the table, see the {{% resource_link "296c842d-58cb-4454-9eea-8185c5a41f76" "Assignments" %}} section.
