@@ -54,3 +54,11 @@ GROUP GRADE
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 For more information on the activities in the table, see the {{% resource_link "296c842d-58cb-4454-9eea-8185c5a41f76" "Assignments" %}} section.
+
+## Academic Integrity
+
+MIT students are expected to adhere to the university’s [Academic Integrity](http://integrity.mit.edu/) policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.
+
+Violating the Academic Integrity policy in any way (e.g., plagiarism) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
+
+Please review the Academic Integrity policy and related resources (e.g., working under pressure; how to paraphrase, summarize, and quote; etc.) and contact me if you have any questions about appropriate citation methods, the degree of collaboration that is permitted, or anything else related to the Academic Integrity of this course.
