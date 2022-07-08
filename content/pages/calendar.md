@@ -143,7 +143,7 @@ Colonial legacy and African diasporas in Belgium, Part 1
 
 Transitional justice and Belgium’s colonial past
 
-Guest speaker: Annah Moyo-Kupeta, Human Rights Lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/)
+Guest speaker: Annah Moyo-Kupeta, human rights lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/)
 
 {{< tdclose >}}{{< tdopen >}}
  
