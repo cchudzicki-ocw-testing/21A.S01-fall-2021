@@ -70,21 +70,25 @@ French colonization in Algeria and the case for reparations
 Guest speaker: [Dr. Noureddine Amara (PDF)](https://law.yale.edu/sites/default/files/area/center/kamel/amara_bio.pdf), Yale University: “Colonial crimes and the need for repair,” part 1
 
 {{< tdclose >}}{{< tdopen >}}
- 
+Short paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
 
 Decolonization and the French-Algerian war
 
-Guest speaker: Dr. Noureddine Amara, Yale University: “Colonial crimes and the need for repair,” part 1
+Guest speaker: Dr. Noureddine Amara, Yale University: “Colonial crimes and the need for repair,” part 2
 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
+
 The nuclear tests in the Sahara
+
+Guest lecturer: [Prof. Damien Scalia](https://www.geneva-academy.ch/masters/master-in-transitional-justice/faculty/profile/245-damien-scalia), Université Libre de Bruxelles: “Openings for seeking justice for colonial violence in Algeria”
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -120,9 +124,13 @@ Case workshop (measuring harm)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
+
 Belgium’s colonial past
+
+Guest speakers: [CaCoBuRwa](https://culanth.org/authors/cacoburwa), Marti Lutumbue, and Carol Laurent
+
 {{< tdclose >}}{{< tdopen >}}
- 
+Algeria case analysis due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
@@ -132,7 +140,11 @@ Colonial legacy and African diasporas in Belgium, Part 1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
+
 Transitional justice and Belgium’s colonial past
+
+Guest speaker: Annah Moyo-Kupeta, Human Rights Lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/)
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
