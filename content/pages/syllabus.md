@@ -40,9 +40,17 @@ INDIVIDUAL GRADE 
 {{< tdclose >}}{{< tdopen >}}
 55%
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+
+GROUP GRADE
+
+- *Assignment 2 - Case analysis, Algeria (5 pages) (15%)*
+- *Assignment 3 - Case analysis, Belgium (5 pages) (15%)*
+- *Final presentation (15%)*
+
+*You will work in small groups of 2–3 for the two case analyses (changing groups each time). In these write-ups, you will bring the anthropological readings and concepts we will have covered in the module to bear on each case in addressing the following questions: What would you recommend as special considerations for the activists as they undertake their claims process, given these texts? What questions emerge about the group’s claim and/or claim-making process? The idea is for these case analyses to extend the work that the two activist groups will have undergone towards their reparations claims and to serve as an additional resource to them.*
+
 {{< tdclose >}}{{< tdopen >}}
- 
+45%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 For more information on the activities in the table, see the {{% resource_link "296c842d-58cb-4454-9eea-8185c5a41f76" "Assignments" %}} section.
