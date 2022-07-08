@@ -6,11 +6,11 @@ title: Calendar
 uid: d8e25c06-fb12-463b-a1e3-ae45fa0b4380
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-**SESS #**
+SESS #
 {{< thclose >}}{{< thopen >}}
-**TOPICS**
+TOPICS
 {{< thclose >}}{{< thopen >}}
-**KEY DUE DATES**
+KEY DUE DATES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **INTRODUCTION: KEY CONCEPTS**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -64,13 +64,21 @@ Reparations for colonialism
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
+
 French colonization in Algeria and the case for reparations
+
+Guest speaker: [Dr. Noureddine Amara (PDF)](https://law.yale.edu/sites/default/files/area/center/kamel/amara_bio.pdf), Yale University: “Colonial crimes and the need for repair,” part 1
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
+
 Decolonization and the French-Algerian war
+
+Guest speaker: Dr. Noureddine Amara, Yale University: “Colonial crimes and the need for repair,” part 1
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
