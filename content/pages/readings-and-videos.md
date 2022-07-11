@@ -34,14 +34,18 @@ Abu-Lughod, Lila. “Writing against Culture.” Chapter 8 in *Recapturing Anthr
 
 Mullings, Leith. [“Interrogating Racism: Toward an Antiracist Anthropology.” (PDF)](https://antropologiadeoutraforma.files.wordpress.com/2013/04/mullings-leith-interrogating-racism-toward-an-antiracist-anthropology.pdf) *Annual Review of Anthropology* 34 (2005): 667–93.
 
-Low, Setha M., and Sally Engle Merry. “[Engaged Anthropology: Diversity and Dilemmas](https://www.journals.uchicago.edu/doi/10.1086/653837).” *Current Anthropology* 51, no. 2 (2008): S203–S214
+Low, Setha M., and Sally Engle Merry. “[Engaged Anthropology: Diversity and Dilemmas](https://www.journals.uchicago.edu/doi/10.1086/653837).” *Current Anthropology* 51, no. 2 (2008): S203–S226.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 Reparations
 {{< tdclose >}}{{< tdopen >}}
- 
+
+*Readings*
+
+De Greiff, Pablo, ed. “Justice and Reparations.” Chapter 12 in *The Handbook of Reparations.* Oxford University Press, 2006. ISBN: ‎9780199291922. \[Preview with [Google Books](https://www.google.com/books/edition/The_Handbook_of_Reparations/HwsUDAAAQBAJ?hl=en&gbpv=1&dq=The+Handbook+of+Reparations&printsec=frontcover)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
