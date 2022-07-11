@@ -48,7 +48,7 @@ De Greiff, Pablo, ed. “Justice and Reparations.” Chapter 12 in *The Handbook
 
 Scott, David. “[Preface: Debt, Redress](https://read.dukeupress.edu/small-axe/article/18/1%20(43)/vii/33315/Preface-Debt-Redress).” *Small Axe* 18, no. 1 (2014): vii–x.
 
-*Audio* 
+*Audio*
 
 Listen to 1 episode of “[Reparations: The Big Payback](https://reparationsbigpayback.com/episode/episode-three-history-of-reparations/)” podcast.
 
@@ -57,7 +57,7 @@ Listen to 1 episode of “[Reparations: The Big Payback](https://reparationsbigp
 {{< tdclose >}}{{< tdopen >}}
 Colonialism, Part 1: A very brief overview of European colonialism in Africa
 {{< tdclose >}}{{< tdopen >}}
- 
+Shillington, Kevin. “[The Nineteenth Century, before the European ‘Scramble for Africa’](https://ebookcentral.proquest.com/lib/mit/reader.action?docID=6234905&ppg=267).” Section 7 in *History of Africa*. Red Globe Press, 2018. ISBN: ‎9781137504036. 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
