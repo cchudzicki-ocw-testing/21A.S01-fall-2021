@@ -57,7 +57,13 @@ Listen to 1 episode of “[Reparations: The Big Payback](https://reparationsbigp
 {{< tdclose >}}{{< tdopen >}}
 Colonialism, Part 1: A very brief overview of European colonialism in Africa
 {{< tdclose >}}{{< tdopen >}}
+
 Shillington, Kevin. “[The Nineteenth Century, before the European ‘Scramble for Africa’](https://ebookcentral.proquest.com/lib/mit/reader.action?docID=6234905&ppg=267).” Section 7 in *History of Africa*. Red Globe Press, 2018. ISBN: ‎9781137504036. 
+
+Ekechi, Felix. “The Consolidation of European Rule, 1885–1914.” In *Africa, Vol 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 27–52. ISBN: ‎9780890897706. 
+
+Oyebade, Adebayo. “Colonial Political Systems.” In *Africa, Vol 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 71*–*86\. ISBN: ‎9780890897706. 
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
