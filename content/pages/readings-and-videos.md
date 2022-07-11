@@ -46,6 +46,8 @@ Reparations
 
 De Greiff, Pablo, ed. “Justice and Reparations.” Chapter 12 in *The Handbook of Reparations.* Oxford University Press, 2006. ISBN: ‎9780199291922. \[Preview with [Google Books](https://www.google.com/books/edition/The_Handbook_of_Reparations/HwsUDAAAQBAJ?hl=en&gbpv=1&dq=The+Handbook+of+Reparations&printsec=frontcover)\]
 
+Scott, David. “[Preface: Debt, Redress](https://read.dukeupress.edu/small-axe/article/18/1%20(43)/vii/33315/Preface-Debt-Redress).” *Small Axe* 18, no. 1 (2014): vii–x.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
