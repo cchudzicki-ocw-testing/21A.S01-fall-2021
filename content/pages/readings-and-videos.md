@@ -48,6 +48,10 @@ De Greiff, Pablo, ed. “Justice and Reparations.” Chapter 12 in *The Handbook
 
 Scott, David. “[Preface: Debt, Redress](https://read.dukeupress.edu/small-axe/article/18/1%20(43)/vii/33315/Preface-Debt-Redress).” *Small Axe* 18, no. 1 (2014): vii–x.
 
+*Audio* 
+
+Listen to 1 episode of “[Reparations: The Big Payback](https://reparationsbigpayback.com/episode/episode-three-history-of-reparations/)” podcast.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
