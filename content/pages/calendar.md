@@ -176,7 +176,7 @@ Race, Blackness, and political engagement across borders
 {{< tdclose >}}{{< tdopen >}}
 Case workshop
 {{< tdclose >}}{{< tdopen >}}
- 
+Belgium case analysis due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
