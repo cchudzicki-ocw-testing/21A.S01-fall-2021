@@ -7,11 +7,11 @@ title: Readings and Videos
 uid: 9f4cd9da-d27b-4eab-8328-ac98de355060
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-**SESS #**
+SESS #
 {{< thclose >}}{{< thopen >}}
-**TOPICS**
+TOPICS
 {{< thclose >}}{{< thopen >}}
-**READINGS AND VIDEOS**
+READINGS AND VIDEOS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **INTRODUCTION: KEY CONCEPTS**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -33,6 +33,8 @@ Anthropology and social justice
 Abu-Lughod, Lila. “Writing against Culture.” Chapter 8 in *Recapturing Anthropology: Working in the Present*. Edited by Richard G. Fox. School of American Research Press, 1991. ISBN: 9780933452787. 
 
 Mullings, Leith. [“Interrogating Racism: Toward an Antiracist Anthropology.” (PDF)](https://antropologiadeoutraforma.files.wordpress.com/2013/04/mullings-leith-interrogating-racism-toward-an-antiracist-anthropology.pdf) *Annual Review of Anthropology* 34 (2005): 667–93.
+
+Low, Setha M., and Sally Engle Merry. “[Engaged Anthropology: Diversity and Dilemmas](https://www.journals.uchicago.edu/doi/10.1086/653837).” *Current Anthropology* 51, no. 2 (2008): S203–S214
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
