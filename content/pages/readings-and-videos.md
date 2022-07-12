@@ -82,9 +82,11 @@ Kaleck, Wolfgang. “On Double Standards and Emerging European Custom on Account
 Reparations for colonialism
 {{< tdclose >}}{{< tdopen >}}
 
-Serumaga, Mary.  “[A Call for Reparations for Slavery and Colonisation](https://www.jstor.org/stable/10.2979/transition.119.1.01#metadata_info_tab_contents).” *Transition* 119, Afro-Asian Worlds (2016): 1–5.
+Serumaga, Mary. “[A Call for Reparations for Slavery and Colonisation](https://www.jstor.org/stable/10.2979/transition.119.1.01#metadata_info_tab_contents).” *Transition* 119, Afro-Asian Worlds (2016): 1–5.
 
-Lu, Catherine.   “[Colonialism as Structural Injustice: Historical Responsibility and Contemporary Redress](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9760.2011.00403.x).” *Journal of Political Philosophy* 19, no. 3 (2011): 261–81.
+Lu, Catherine. “[Colonialism as Structural Injustice: Historical Responsibility and Contemporary Redress](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9760.2011.00403.x).” *Journal of Political Philosophy* 19, no. 3 (2011): 261–81.
+
+Newton, Melanie J. “[Introduction: On History and Justice](https://read.dukeupress.edu/small-axe/article/18/1%20(43)/1/33317/Introduction-On-History-and-Justice).” *Small Axe* 43, no. 1 (2014): 1–6.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **ALGERIA**
