@@ -88,6 +88,8 @@ Lu, Catherine. “[Colonialism as Structural Injustice: Historical Responsibilit
 
 Newton, Melanie J. “[Introduction: On History and Justice](https://read.dukeupress.edu/small-axe/article/18/1%20(43)/1/33317/Introduction-On-History-and-Justice).” *Small Axe* 43, no. 1 (2014): 1–6.
 
+Méténier, Clémentine. “[Colonial Crimes: World Map of Justice Initiatives](https://www.justiceinfo.net/en/78677-colonial-crimes-world-map-justice-initiatives.html).” June 17, 2021. JusticeInfo.net.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **ALGERIA**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
