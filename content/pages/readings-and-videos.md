@@ -69,7 +69,11 @@ Oyebade, Adebayo. “Colonial Political Systems.” In *Africa, Vol 3: Colonial 
 {{< tdclose >}}{{< tdopen >}}
 Colonialism, Part 2: Colonialism and violence
 {{< tdclose >}}{{< tdopen >}}
+
 Lazreg, Marnia.  (2008) “Introduction.” In *Torture and the Twilight of Empire: From Algiers to Baghdad*. Princeton University Press, 2016. ISBN: ‎9780691173481. \[Preview with [Google Books](https://www.google.com/books/edition/Torture_and_the_Twilight_of_Empire/ZuFKDQAAQBAJ?hl=en&gbpv=1)\]
+
+Fanon, Frantz. “On Violence.” Chapter 1 in *The Wretched of the Earth*. Translated from the French by Richard Philcox. Grove Press, 2021. ISBN: ‎9780802158635. \[Preview with [Google Books](https://www.google.com/books/edition/The_Wretched_of_the_Earth/-XGKFJq4eccC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
