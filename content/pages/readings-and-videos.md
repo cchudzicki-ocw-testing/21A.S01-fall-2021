@@ -97,7 +97,11 @@ Méténier, Clémentine. “[Colonial Crimes: World Map of Justice Initiatives](
 {{< tdclose >}}{{< tdopen >}}
 French colonization in Algeria and the case for reparations
 {{< tdclose >}}{{< tdopen >}}
- 
+
+*View*
+
+“[Chronicle of the Years of Fire](https://www.youtube.com/watch?v=s6MuVXQ9jWk).” YouTube.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
