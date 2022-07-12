@@ -98,7 +98,7 @@ Méténier, Clémentine. “[Colonial Crimes: World Map of Justice Initiatives](
 French colonization in Algeria and the case for reparations
 {{< tdclose >}}{{< tdopen >}}
 
-*View*
+*Video*
 
 “[Chronicle of the Years of Fire](https://www.youtube.com/watch?v=s6MuVXQ9jWk).” YouTube.
 
@@ -107,7 +107,11 @@ French colonization in Algeria and the case for reparations
 {{< tdclose >}}{{< tdopen >}}
 Decolonization and the French-Algerian war
 {{< tdclose >}}{{< tdopen >}}
- 
+
+*Video*
+
+“[Algérie 1er jullet 1962: Boufarik](https://www.ina.fr/ina-eclaire-actu/video/caf97505619/algerie-1er-juillet-1962-boufarik-christian-fouchet).” ina.fr. (Farewell speech by Christian Fouchet, French High Commissioner, on the day of the Algerian referendum.)
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
