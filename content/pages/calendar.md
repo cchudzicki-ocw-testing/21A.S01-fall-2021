@@ -73,7 +73,7 @@ Guest speaker: [Dr. Noureddine Amara (PDF)](https://law.yale.edu/sites/default/f
 
 Reading responses due
 
-Short paper due
+Short papers due
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
