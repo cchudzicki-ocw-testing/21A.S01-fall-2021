@@ -74,6 +74,8 @@ Lazreg, Marnia.  (2008) “Introduction.” In *Torture and the Twilight of Emp
 
 Fanon, Frantz. “On Violence.” Chapter 1 in *The Wretched of the Earth*. Translated from the French by Richard Philcox. Grove Press, 2021. ISBN: ‎9780802158635. \[Preview with [Google Books](https://www.google.com/books/edition/The_Wretched_of_the_Earth/-XGKFJq4eccC?hl=en&gbpv=1)\]
 
+Kaleck, Wolfgang. “On Double Standards and Emerging European Custom on Accountability for Colonial Crimes.” Chapter 1 in *Colonial Wrongs and Access to International Law* (PDF). Edited by Morten Bergsmo, Wolfgang Kaleck, and Kyaw Yin Hlaing. Torkel Opsahl Academic Epublisher, 2020, pp. 1*–*12\. ISBN: ‎9788283481334. 
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
