@@ -81,7 +81,7 @@ Kaleck, Wolfgang. “On Double Standards and Emerging European Custom on Account
 {{< tdclose >}}{{< tdopen >}}
 Reparations for colonialism
 {{< tdclose >}}{{< tdopen >}}
- 
+Serumaga, Mary.  “[A Call for Reparations for Slavery and Colonisation](https://www.jstor.org/stable/10.2979/transition.119.1.01#metadata_info_tab_contents).” *Transition* 119, Afro-Asian Worlds (2016): 1–5.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **ALGERIA**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
