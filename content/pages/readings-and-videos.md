@@ -117,7 +117,7 @@ Decolonization and the French-Algerian war
 {{< tdclose >}}{{< tdopen >}}
 The nuclear tests in the Sahara
 {{< tdclose >}}{{< tdopen >}}
- 
+Panchasi, Roxanne. [“‘No Hiroshima in Africa’: The Algerian War and the Question of French Nuclear Tests in the Sahara.” (PDF)](https://roxannepanchasi15963656.files.wordpress.com/2019/12/historypresent.9.1.0084.pdf) *History of the Present* 9, no. 1 (2019): 84–113.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
