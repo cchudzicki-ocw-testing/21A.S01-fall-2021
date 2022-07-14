@@ -170,9 +170,7 @@ Belgium’s colonial past
 
 *Reading*
 
-Fraiture, Pierre-Philippe. “Belgium and Its Colonies: Introduction.” In *A Historical Companion to Postcolonial Literatures-Continental Europe and its Empires.* Edited by 
-
-Prem Poddar, Rajeev S. Patke, and Lars Jensen. Edinburgh University Press, 2011, pp. 7–11. ISBN: ‎9780748644827.  \[Preview with [Google Books](https://www.google.com/books/edition/Historical_Companion_to_Postcolonial_Lit/HfPcCQAAQBAJ?hl=en&gbpv=1)\]
+Fraiture, Pierre-Philippe. “Belgium and Its Colonies: Introduction.” In *A Historical Companion to Postcolonial Literatures-Continental Europe and its Empires.* Edited by Prem Poddar, Rajeev S. Patke, and Lars Jensen. Edinburgh University Press, 2011, pp. 7–11. ISBN: ‎9780748644827.  \[Preview with [Google Books](https://www.google.com/books/edition/Historical_Companion_to_Postcolonial_Lit/HfPcCQAAQBAJ?hl=en&gbpv=1)\]
 
 Video
 
