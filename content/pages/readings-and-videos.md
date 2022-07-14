@@ -148,6 +148,8 @@ James, Erica Caple.  “[The Political Economy of ‘Trauma’ in Haiti in the 
 
 Petryna, Adriana. “[Nuclear Payouts: Knowledge and Compensation in the Chernobyl Aftermath](https://anthronow.com/online-articles/nuclear-payouts-knowledge-and-compensation-in-the-chernobyl-aftermath).” *Anthropology Now*  1, no. 2 (2009): 30–39.
 
+Darity, William Jr. (2008) “[Forty Acres and a Mule in the 21st Century](https://www.jstor.org/stable/42956508#metadata_info_tab_contents).” *Social Science Quarterly* 89, no. 3 (2008), 656–64.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
