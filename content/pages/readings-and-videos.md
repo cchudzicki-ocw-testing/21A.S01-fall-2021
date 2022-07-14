@@ -137,13 +137,13 @@ Case workshop (narrative, legal instruments, defining the crime)
  
 
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 Measuring harm
 {{< tdclose >}}{{< tdopen >}}
- 
+James, Erica Caple.  “The Political Economy of ‘Trauma’ in Haiti in the Democratic Era of Insecurity.” *Culture, Medicine and Psychiatry* 28 (2004): 127–49.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
