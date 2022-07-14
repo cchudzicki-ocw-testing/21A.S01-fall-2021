@@ -123,7 +123,11 @@ Panchasi, Roxanne. [“‘No Hiroshima in Africa’: The Algerian War and the Qu
 {{< tdclose >}}{{< tdopen >}}
 The law and claims for justice
 {{< tdclose >}}{{< tdopen >}}
+
 Löytömäki, Stiina. “[The Law and Collective Memory of Colonialism: France and the Case of ‘Belated’ Transitional Justice](https://academic.oup.com/ijtj/article-abstract/7/2/205/723007).” *International Journal of Transitional Justice* 7, no. 2 (2013): 205–23.
+
+Merry, Sally Engle. “[Human Rights Law and the Demonization of Culture (And Anthropology Along the Way.)](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/pol.2003.26.1.55)” *PoLar: Political and Legal Anthropology Review* 26, no. 1 (2003): 55–76.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
