@@ -143,7 +143,11 @@ No readings assigned.
 {{< tdclose >}}{{< tdopen >}}
 Measuring harm
 {{< tdclose >}}{{< tdopen >}}
+
 James, Erica Caple.  “[The Political Economy of ‘Trauma’ in Haiti in the Democratic Era of Insecurity](https://link.springer.com/article/10.1023/B:MEDI.0000034407.39471.d4).” *Culture, Medicine and Psychiatry* 28 (2004): 127–49.
+
+Petryna, Adriana. “[Nuclear Payouts: Knowledge and Compensation in the Chernobyl Aftermath](https://anthronow.com/online-articles/nuclear-payouts-knowledge-and-compensation-in-the-chernobyl-aftermath).” *Anthropology Now*  1, no. 2 (2009): 30–39.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
