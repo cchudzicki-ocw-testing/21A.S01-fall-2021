@@ -159,7 +159,7 @@ Kenya Human Rights Commission. “[The Mau Mau Settlement: Setting the Record St
 {{< tdclose >}}{{< tdopen >}}
 Case workshop (measuring harm)
 {{< tdclose >}}{{< tdopen >}}
- 
+No readings assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **BELGIUM**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -167,7 +167,15 @@ Case workshop (measuring harm)
 {{< tdclose >}}{{< tdopen >}}
 Belgium’s colonial past
 {{< tdclose >}}{{< tdopen >}}
- 
+
+*Reading*
+
+Fraiture, Pierre-Philippe. “Belgium and Its Colonies: Introduction.” In *A Historical Companion to Postcolonial Literatures-Continental Europe and its Empires.* Edited by 
+
+Prem Poddar, Rajeev S. Patke, and Lars Jensen. Edinburgh University Press, 2011, pp. 7–11. ISBN: ‎9780748644827.  \[Preview with [Google Books](https://www.google.com/books/edition/Historical_Companion_to_Postcolonial_Lit/HfPcCQAAQBAJ?hl=en&gbpv=1)\]
+
+Video
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
