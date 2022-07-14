@@ -148,7 +148,11 @@ James, Erica Caple.  “[The Political Economy of ‘Trauma’ in Haiti in the 
 
 Petryna, Adriana. “[Nuclear Payouts: Knowledge and Compensation in the Chernobyl Aftermath](https://anthronow.com/online-articles/nuclear-payouts-knowledge-and-compensation-in-the-chernobyl-aftermath).” *Anthropology Now*  1, no. 2 (2009): 30–39.
 
-Darity, William Jr. (2008) “[Forty Acres and a Mule in the 21st Century](https://www.jstor.org/stable/42956508#metadata_info_tab_contents).” *Social Science Quarterly* 89, no. 3 (2008), 656–64.
+Darity, William Jr. “[Forty Acres and a Mule in the 21st Century](https://www.jstor.org/stable/42956508#metadata_info_tab_contents).” *Social Science Quarterly* 89, no. 3 (2008), 656–64.
+
+Kenya Human Rights Commission. “[The Mau Mau Settlement: Setting the Record Straight](https://www.khrc.or.ke/2015-03-04-10-37-01/press-releases/404-the-mau-mau-settlement-setting-the-record-straight.html).” June 13, 2013. Kenya Human Rights Commission.
+
+\+ Leigh Day, “The Mau Mau Claims”
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
