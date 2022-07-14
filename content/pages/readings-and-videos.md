@@ -152,7 +152,7 @@ Darity, William Jr. “[Forty Acres and a Mule in the 21st Century](https://www.
 
 Kenya Human Rights Commission. “[The Mau Mau Settlement: Setting the Record Straight](https://www.khrc.or.ke/2015-03-04-10-37-01/press-releases/404-the-mau-mau-settlement-setting-the-record-straight.html).” June 13, 2013. Kenya Human Rights Commission.
 
-\+ Leigh Day, “The Mau Mau Claims”
+“[The Mau Mau Claims](https://www.leighday.co.uk/latest-updates/cases-and-testimonials/cases/the-mau-mau-claims/).” Leigh Day.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
