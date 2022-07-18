@@ -181,7 +181,11 @@ Fraiture, Pierre-Philippe. “Belgium and Its Colonies: Introduction.” In *A H
 {{< tdclose >}}{{< tdopen >}}
 Colonial legacy and African diasporas in Belgium, Part 1
 {{< tdclose >}}{{< tdopen >}}
- 
+
+*Readings*
+
+Human Rights Council. [“Visit to Belgium: Report of the Working Group of Experts on People of African Descent.” (PDF)](https://documents-dds-ny.un.org/doc/UNDOC/GEN/G19/243/13/PDF/G1924313.pdf?OpenElement) August 14, 2019. General Assembly, United Nations.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
