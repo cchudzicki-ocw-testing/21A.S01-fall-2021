@@ -137,7 +137,7 @@ Case workshop (narrative, legal instruments, defining the crime)
  
 
 {{< tdclose >}}{{< tdopen >}}
-No readings assigned.
+No readings or videos assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -159,7 +159,7 @@ Kenya Human Rights Commission. “[The Mau Mau Settlement: Setting the Record St
 {{< tdclose >}}{{< tdopen >}}
 Case workshop (measuring harm)
 {{< tdclose >}}{{< tdopen >}}
-No readings assigned.
+No readings or videos assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **BELGIUM**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -193,7 +193,11 @@ Demart, Sarah. “[Congolese Migration to Belgium and Postcolonial Perspectives]
 {{< tdclose >}}{{< tdopen >}}
 Transitional justice and Belgium’s colonial past
 {{< tdclose >}}{{< tdopen >}}
- 
+
+*Readings*
+
+van der Merwe, Hugo, and M. Brinton Lykes.  “[Racism and Transitional Justice](https://academic.oup.com/ijtj/article-abstract/14/3/415/6117966).” *International Journal of Transitional Justice* 14, no. 3 (2020): 415–22.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
