@@ -198,6 +198,10 @@ Transitional justice and Belgium’s colonial past
 
 van der Merwe, Hugo, and M. Brinton Lykes.  “[Racism and Transitional Justice](https://academic.oup.com/ijtj/article-abstract/14/3/415/6117966).” *International Journal of Transitional Justice* 14, no. 3 (2020): 415–22.
 
+*Video*
+
+“[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past - Annah Moyo-Kupeta](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
