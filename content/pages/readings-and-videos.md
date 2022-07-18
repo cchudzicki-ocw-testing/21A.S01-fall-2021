@@ -207,7 +207,13 @@ van der Merwe, Hugo, and M. Brinton Lykes.  “[Racism and Transitional Justice
 {{< tdclose >}}{{< tdopen >}}
 Colonial legacy and African diasporas in Belgium, Part 2
 {{< tdclose >}}{{< tdopen >}}
- 
+
+*Readings*
+
+Hall, Stuart. “Cultural Identity and Diaspora.” In *Identity: Community,  Culture, Difference*. Edited by Jonathan Rutherford. Lawrence And Wishart Ltd., 1990. ISBN: 9781909831803.
+
+Gregoire, Nicole. “[Identity Politics, Social Movement and the State: ‘Pan-African’ Associations and the Making of an ‘African Community’ in Belgium](https://brill.com/view/journals/afdi/3/1/article-p159_9.xml).” *African Diaspora* 3, no. 1 (2010: 159–81.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
