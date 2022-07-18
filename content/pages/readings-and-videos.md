@@ -226,9 +226,11 @@ No readings or videos assigned.
 Race and identity in Europe
 {{< tdclose >}}{{< tdopen >}}
 
-Readings
+*Readings*
 
 El-Tayeb, Fatima. “[‘The Birth of a European Public’: Migration, Postnationality, and Race in the Uniting of Europe](https://muse.jhu.edu/article/249051).” *American Quarterly* 6, no. 3 (2008), 649–70.
+
+Small, Stephen. [“Theorizing Visibility and Vulnerability in Black Europe and the African Diaspora.” (PDF)](https://cemfor.uu.se/digitalAssets/711/c_711726-l_3-k_5theorizing-visibility-and-vulnerability-in-black-europe-and-the-african-diaspora.pdf) *Ethnic and Racial Studies* 41, no. 6 (2018): 1182–97.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
