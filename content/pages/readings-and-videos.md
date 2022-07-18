@@ -244,7 +244,11 @@ Race, Blackness, and political engagement across borders
 
 Mulings, Leith. “[Race and Globalization](https://www.tandfonline.com/doi/abs/10.1080/10999940490506979).” *Souls* 6, no. 2 (2004): 1–9.
 
-Keaton, Tricia Danielle. “‘Black (American) Paris’ and the French Outer-Cities: The Race Question and Questioning Solidarity.” Chapter 6 in *Black Europe and its African Diaspora*. Edited by Darlene Clark, Trica Danielle Keaton, and Stephen Small. University of Illinois Press, 2009. \[Preview with [Google Books](https://www.google.com/books/edition/Black_Europe_and_the_African_Diaspora/YH-DgrHLu1UC?hl=en&gbpv=1)\]
+Keaton, Tricia Danielle. “‘Black (American) Paris’ and the French Outer-Cities: The Race Question and Questioning Solidarity.” Chapter 6 in *Black Europe and its African Diaspora*. Edited by Darlene Clark, Trica Danielle Keaton, and Stephen Small. University of Illinois Press, 2009. ISBN: ‎9780252076572. \[Preview with [Google Books](https://www.google.com/books/edition/Black_Europe_and_the_African_Diaspora/YH-DgrHLu1UC?hl=en&gbpv=1)\]
+
+*Video*
+
+[*Flâner webseries-episode: “Gaëlle et Christelle”*](https://network.bfi.org.uk/postroom/network-picks/fl%C3%A2ner). Directed by Cecile Emeke. Color, 17 mins. 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
