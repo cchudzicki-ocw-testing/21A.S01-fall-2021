@@ -230,7 +230,7 @@ Race and identity in Europe
 
 El-Tayeb, Fatima. “[‘The Birth of a European Public’: Migration, Postnationality, and Race in the Uniting of Europe](https://muse.jhu.edu/article/249051).” *American Quarterly* 6, no. 3 (2008), 649–70.
 
-Small, Stephen. [“Theorizing Visibility and Vulnerability in Black Europe and the African Diaspora.” (PDF)](https://cemfor.uu.se/digitalAssets/711/c_711726-l_3-k_5theorizing-visibility-and-vulnerability-in-black-europe-and-the-african-diaspora.pdf) *Ethnic and Racial Studies* 41, no. 6 (2018): 1182–97.
+Small, Stephen. [“Theorizing Visibility and Vulnerability in Black Europe and the African Diaspora.” (PDF - 1.2MB)](https://cemfor.uu.se/digitalAssets/711/c_711726-l_3-k_5theorizing-visibility-and-vulnerability-in-black-europe-and-the-african-diaspora.pdf) *Ethnic and Racial Studies* 41, no. 6 (2018): 1182–97.
 
 Otele, Olivette. “Identity and Liberation: African Europeans Today.” Chapter 7 in *African Europeans: An Untold History*. Basic Books, 2021. ISBN: ‎9781541619678. \[Preview with [Google Books](https://www.google.com/books/edition/African_Europeans/2qj7DwAAQBAJ?hl=en&gbpv=1)\]
 
@@ -239,7 +239,11 @@ Otele, Olivette. “Identity and Liberation: African Europeans Today.” Chapter
 {{< tdclose >}}{{< tdopen >}}
 Race, Blackness, and political engagement across borders
 {{< tdclose >}}{{< tdopen >}}
- 
+
+*Readings*
+
+Mulings, Leith. “[Race and Globalization](https://www.tandfonline.com/doi/abs/10.1080/10999940490506979).” *Souls* 6, no. 2 (2004): 1–9.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
