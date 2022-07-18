@@ -244,6 +244,8 @@ Race, Blackness, and political engagement across borders
 
 Mulings, Leith. “[Race and Globalization](https://www.tandfonline.com/doi/abs/10.1080/10999940490506979).” *Souls* 6, no. 2 (2004): 1–9.
 
+Keaton, Tricia Danielle. “‘Black (American) Paris’ and the French Outer-Cities: The Race Question and Questioning Solidarity.” Chapter 6 in *Black Europe and its African Diaspora*. Edited by Darlene Clark, Trica Danielle Keaton, and Stephen Small. University of Illinois Press, 2009. \[Preview with [Google Books](https://www.google.com/books/edition/Black_Europe_and_the_African_Diaspora/YH-DgrHLu1UC?hl=en&gbpv=1)\]
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
