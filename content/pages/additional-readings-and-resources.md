@@ -10,7 +10,7 @@ Gallois, William. “Violence in Algeria, 1830–37,” and “The Evolution of 
 
 McDougall, James. “Martyrdom and Destiny: The Inscription and Imagination of Algerian History.” Chapter 2 in *Memory and Violence in the Middle East and North Africa*. Edited by Ussama Makdisi and Paul A. Silverstein. ‎Indiana University Press, 2006. ISBN: ‎9780253217981. \[Preview with [Google Books](https://www.google.com/books/edition/Memory_and_Violence_in_the_Middle_East_a/sAFs5KdQFcMC?hl=en&gbpv=1)\]
 
-Méheut, Constant.  “[Report Aims at ‘Reconciling’ France and Algeria, Its Former Colony](https://www.nytimes.com/2021/01/20/world/europe/france-algeria-war-report.html#:~:text=The%20report%20said%20its%20purpose,left%20hundreds%20of%20thousands%20dead.),” *New York Times*, January 20, 2021.
+Méheut, Constant. “[Report Aims at ‘Reconciling’ France and Algeria, Its Former Colony](https://www.nytimes.com/2021/01/20/world/europe/france-algeria-war-report.html#:~:text=The%20report%20said%20its%20purpose,left%20hundreds%20of%20thousands%20dead.),” *New York Times*, January 20, 2021.
 
 “[Made in Algeria: Genealogy of a Territory](https://www.mucem.org/programme/exposition-et-temps-forts/made-algeria)” online exhibit, MUCEM - Museums of Civilizations of Europe and the Mediterranean.
 
@@ -18,4 +18,6 @@ Méheut, Constant.  “[Report Aims at ‘Reconciling’ France and Algeria, It
 
 Drif, Zora. Excerpts from *Inside the Battle of Algiers: Memoir of a Woman Freedom Fighter*. Just World Books, 2017. ISBN: ‎9781682570753. 
 
-Lazreg, Marnia.   “[Algeria as Template: Torture and Counter-Insurgency War](https://www.proquest.com/docview/866741329?pq-origsite=gscholar&fromopenview=true).” *Global Dialogue (Online)* 12, no. 1 (2010):  1–10.
+Lazreg, Marnia. “[Algeria as Template: Torture and Counter-Insurgency War](https://www.proquest.com/docview/866741329?pq-origsite=gscholar&fromopenview=true).” *Global Dialogue (Online)* 12, no. 1 (2010):  1–10.
+
+Bonilla, Yarimar. [“Unsettling Sovereignty.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.14506/ca32.3.02) *Cultural Anthropology* 32, no. 3 (2017): 330–39.
