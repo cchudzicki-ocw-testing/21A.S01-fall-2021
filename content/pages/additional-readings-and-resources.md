@@ -22,4 +22,6 @@ Lazreg, Marnia. “[Algeria as Template: Torture and Counter-Insurgency War](htt
 
 Bonilla, Yarimar. [“Unsettling Sovereignty.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.14506/ca32.3.02) *Cultural Anthropology* 32, no. 3 (2017): 330–39.
 
-Merry, Sally Engle. “[Anthropology and International Law](https://www.annualreviews.org/doi/10.1146/annurev.anthro.35.081705.123245).” *Annual Review of Anthropology* 35 (2006): 99-116.
+Merry, Sally Engle. “[Anthropology and International Law](https://www.annualreviews.org/doi/10.1146/annurev.anthro.35.081705.123245).” *Annual Review of Anthropology* 35 (2006): 99–116.
+
+Pillai, Priya.  “[Truth Commissions and Colonial Atrocities: Moving the Needle Further Towards State Responsibility?](http://opiniojuris.org/2019/04/27/truth-commissions-and-colonial-atrocities-moving-the-needle-further-towards-state-responsibility/)” April 27, 2019. OpinioJuris.
