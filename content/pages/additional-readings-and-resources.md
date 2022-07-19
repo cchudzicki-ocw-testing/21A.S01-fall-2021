@@ -27,3 +27,5 @@ Merry, Sally Engle. “[Anthropology and International Law](https://www.annualre
 Pillai, Priya. “[Truth Commissions and Colonial Atrocities: Moving the Needle Further Towards State Responsibility?](http://opiniojuris.org/2019/04/27/truth-commissions-and-colonial-atrocities-moving-the-needle-further-towards-state-responsibility/)” April 27, 2019. OpinioJuris.
 
 Arnould, Valerie. “[Regionalisation of Transitional Justice Frameworks in Africa and Europe](https://blog.associatie.kuleuven.be/ltjb/regionalisation-of-transitional-justice-frameworks-in-africa-and-europe/).” December 17, 2019. Leuven Transitional Justice Blog.
+
+Humphrey, Michael. “Reentering Histories of Past Imperial Violence”, in A. Dirk Moses, Marco Duranti, Roland Burke (eds.), Decolonization, Self-Determination, and the Rise of Global Human Rights Politics.
