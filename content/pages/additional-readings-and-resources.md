@@ -15,3 +15,7 @@ Méheut, Constant.  “[Report Aims at ‘Reconciling’ France and Algeria, It
 “[Made in Algeria: Genealogy of a Territory](https://www.mucem.org/programme/exposition-et-temps-forts/made-algeria)” online exhibit, MUCEM - Museums of Civilizations of Europe and the Mediterranean.
 
 “[The Battle of Algiers](https://www.youtube.com/watch?v=vRE3j8pDMds).” (1966).  YouTube.
+
+Drif, Zora. Excerpts from *Inside the Battle of Algiers: Memoir of a Woman Freedom Fighter*. Just World Books, 2017. ISBN: ‎9781682570753. 
+
+Lazreg, Marnia.   “[Algeria as Template: Torture and Counter-Insurgency War](https://www.proquest.com/docview/866741329?pq-origsite=gscholar&fromopenview=true).” *Global Dialogue (Online)* 12, no. 1 (2010):  1–10.
