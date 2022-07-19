@@ -13,3 +13,5 @@ McDougall, James. “Martyrdom and Destiny: The Inscription and Imagination of A
 Méheut, Constant.  “[Report Aims at ‘Reconciling’ France and Algeria, Its Former Colony](https://www.nytimes.com/2021/01/20/world/europe/france-algeria-war-report.html#:~:text=The%20report%20said%20its%20purpose,left%20hundreds%20of%20thousands%20dead.),” *New York Times*, January 20, 2021.
 
 “[Made in Algeria: Genealogy of a Territory](https://www.mucem.org/programme/exposition-et-temps-forts/made-algeria)” online exhibit, MUCEM - Museums of Civilizations of Europe and the Mediterranean.
+
+“[The Battle of Algiers](https://www.youtube.com/watch?v=vRE3j8pDMds).” (1966).  YouTube.
