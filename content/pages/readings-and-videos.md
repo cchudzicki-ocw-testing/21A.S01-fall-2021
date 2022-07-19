@@ -250,40 +250,4 @@ Keaton, Tricia Danielle. “‘Black (American) Paris’ and the French Outer-Ci
 
 [*Flâner webseries episode: “Gaëlle et Christelle”*](https://network.bfi.org.uk/postroom/network-picks/fl%C3%A2ner). Directed by Cecile Emeke. Color, 17 mins. 2014.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-21
-{{< tdclose >}}{{< tdopen >}}
-Case workshop
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-22
-{{< tdclose >}}{{< tdopen >}}
-
-Presentation by Algeria working group and discussion
-
- 
-
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-23
-{{< tdclose >}}{{< tdopen >}}
-
-Presentation by Belgium working group and discussion
-
- 
-
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-24
-{{< tdclose >}}{{< tdopen >}}
-
-Student presentations and course wrap-up
-
- 
-
-{{< tdclose >}}{{< tdopen >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
