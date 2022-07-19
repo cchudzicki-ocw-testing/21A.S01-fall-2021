@@ -24,4 +24,6 @@ Bonilla, Yarimar. [“Unsettling Sovereignty.” (PDF)](https://anthrosource.onl
 
 Merry, Sally Engle. “[Anthropology and International Law](https://www.annualreviews.org/doi/10.1146/annurev.anthro.35.081705.123245).” *Annual Review of Anthropology* 35 (2006): 99–116.
 
-Pillai, Priya.  “[Truth Commissions and Colonial Atrocities: Moving the Needle Further Towards State Responsibility?](http://opiniojuris.org/2019/04/27/truth-commissions-and-colonial-atrocities-moving-the-needle-further-towards-state-responsibility/)” April 27, 2019. OpinioJuris.
+Pillai, Priya. “[Truth Commissions and Colonial Atrocities: Moving the Needle Further Towards State Responsibility?](http://opiniojuris.org/2019/04/27/truth-commissions-and-colonial-atrocities-moving-the-needle-further-towards-state-responsibility/)” April 27, 2019. OpinioJuris.
+
+Arnould, Valerie. “[Regionalisation of Transitional Justice Frameworks in Africa and Europe](https://blog.associatie.kuleuven.be/ltjb/regionalisation-of-transitional-justice-frameworks-in-africa-and-europe/).” December 17, 2019. Leuven Transitional Justice Blog.
