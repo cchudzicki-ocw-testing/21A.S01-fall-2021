@@ -30,6 +30,6 @@ Arnould, Valerie. “[Regionalisation of Transitional Justice Frameworks in Afri
 
 Humphrey, Michael. “Reentering Histories of Past Imperial Violence: Kenya, Idonesia, and the Reach of Transitional Justice.” Chapter 10 in *Decolonization, Self-Determination, and the Rise of Global Human Rights Politics*. Edited by A. Dirk Moses, Marco Duranti, and Roland Burke. Cambridge University Press, 2020. ISBN: ‎9781108479356. \[Preview with [Google Books](https://www.google.com/books/edition/Decolonization_Self_Determination_and_th/ZrjpDwAAQBAJ?hl=en&gbpv=1)\]
 
-Appiah, Juliana, Roland Mireku Yeboah, et al. “[Architecture of Denial: Imperial Violence, the Construction of Law and Historical Knowledge during the Mau Mau Uprising, 1952–1960](https://brill.com/view/journals/ajls/14/1/article-p3_2.xml?language=en).” *African Journal of Legal Studies* (2021): 
+Appiah, Juliana, Roland Mireku Yeboah, et al. “[Architecture of Denial: Imperial Violence, the Construction of Law and Historical Knowledge during the Mau Mau Uprising, 1952–1960](https://brill.com/view/journals/ajls/14/1/article-p3_2.xml?language=en).” *African Journal of Legal Studies* (2021): 1–25.
 
-1–25.
+Fassin, Didier, and Estelle D’Halluin. [“The Truth from the Body: Medical Certificates as Ultimate Evidence for Asylum Seekers.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.2005.107.4.597) *American Anthropologist* 107, no. 4 (2005): 597–608.
