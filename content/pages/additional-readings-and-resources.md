@@ -37,3 +37,5 @@ Fassin, Didier, and Estelle D’Halluin. [“The Truth from the Body: Medical Ce
 Malkki, Liisa. “[Commentary: The Politics of Trauma and Asylum: Universals and Their Effects](https://www.jstor.org/stable/4497917#metadata_info_tab_contents).” *Ethos* 35, no. 3 (2007): 336–43.
 
 Cole, Jennifer. [“The Work of Memory in Madagascar.” (PDF - 2.6MB)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/ae.1998.25.4.610) *American Ethnologist* 25, no. 4 (1998): 610–33.
+
+Stolcke, Verena. “[Talking Culture: New Boundaries, New Rhetorics of Exclusion in Europe](https://www.jstor.org/stable/2744220#metadata_info_tab_contents).” *Current Anthropology* 36, no. 1 (1995): 1–24.
