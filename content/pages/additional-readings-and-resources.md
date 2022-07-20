@@ -33,3 +33,5 @@ Humphrey, Michael. “Reentering Histories of Past Imperial Violence: Kenya, Ido
 Appiah, Juliana, Roland Mireku Yeboah, et al. “[Architecture of Denial: Imperial Violence, the Construction of Law and Historical Knowledge during the Mau Mau Uprising, 1952–1960](https://brill.com/view/journals/ajls/14/1/article-p3_2.xml?language=en).” *African Journal of Legal Studies* (2021): 1–25.
 
 Fassin, Didier, and Estelle D’Halluin. [“The Truth from the Body: Medical Certificates as Ultimate Evidence for Asylum Seekers.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1525/aa.2005.107.4.597) *American Anthropologist* 107, no. 4 (2005): 597–608.
+
+Malkii, Liisa. “[Commentary: The Politics of Trauma and Asylum: Universals and their Effects](https://www.jstor.org/stable/4497917#metadata_info_tab_contents).” *Ethos* 35, no. 3 (2007): 336–43.
