@@ -91,7 +91,7 @@ Reading responses due
 
 The nuclear tests in the Sahara
 
-Guest lecturer: [Prof. Damien Scalia](https://www.geneva-academy.ch/masters/master-in-transitional-justice/faculty/profile/245-damien-scalia), Université Libre de Bruxelles: “Openings for seeking justice for colonial violence in Algeria”
+Guest lecturer: [Prof. Damien Scalia](https://www.geneva-academy.ch/masters/master-in-transitional-justice/faculty/profile/245-damien-scalia), Université Libre de Bruxelles: “[Openings for Seeking Justice for Colonial Violence in Algeria](https://www.youtube.com/watch?v=2LbzSIwFtXw&t=1s).” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
