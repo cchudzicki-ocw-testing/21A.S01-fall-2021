@@ -60,9 +60,11 @@ Listen to 1 episode of “[Reparations: The Big Payback](https://reparationsbigp
 Colonialism, Part 1: A very brief overview of European colonialism in Africa
 {{< tdclose >}}{{< tdopen >}}
 
+*Readings*
+
 Shillington, Kevin. “The Nineteenth Century, before the European ‘Scramble for Africa’.” Section 7 in *History of Africa*. 4th ed. Red Globe Press, 2018. ISBN: ‎9781137504036. \[Preview with [Google Books](https://www.google.com/books/edition/History_of_Africa/rxtHEAAAQBAJ?hl=en&gbpv=1)\]
 
- — — —. “The Impact and Nature of Colonial Rule.” Section 9 in *History of Africa*. 4th ed. Red Globe Press, 2018. ISBN: ‎9781137504036. \[Preview with [Google Books](https://www.google.com/books/edition/History_of_Africa/rxtHEAAAQBAJ?hl=en&gbpv=1)\]
+ — — —. “The Impact and Nature of Colonial Rule, 1890–1945.” Section 9 in *History of Africa*. 4th ed. Red Globe Press, 2018. ISBN: ‎9781137504036. \[Preview with [Google Books](https://www.google.com/books/edition/History_of_Africa/rxtHEAAAQBAJ?hl=en&gbpv=1)\]
 
 Ekechi, Felix. “The Consolidation of European Rule, 1885–1914.” In *Africa, Vol 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 27–52. ISBN: ‎9780890897706. 
 
@@ -73,6 +75,8 @@ Oyebade, Adebayo. “Colonial Political Systems.” In *Africa, Vol 3: Colonial 
 {{< tdclose >}}{{< tdopen >}}
 Colonialism, Part 2: Colonialism and violence
 {{< tdclose >}}{{< tdopen >}}
+
+*Readings*
 
 Lazreg, Marnia.  (2008) “Introduction.” In *Torture and the Twilight of Empire: From Algiers to Baghdad*. Princeton University Press, 2016. ISBN: ‎9780691173481. \[Preview with [Google Books](https://www.google.com/books/edition/Torture_and_the_Twilight_of_Empire/ZuFKDQAAQBAJ?hl=en&gbpv=1)\]
 
@@ -85,6 +89,8 @@ Kaleck, Wolfgang. “On Double Standards and Emerging European Custom on Account
 {{< tdclose >}}{{< tdopen >}}
 Reparations for colonialism
 {{< tdclose >}}{{< tdopen >}}
+
+*Readings*
 
 Serumaga, Mary. “[A Call for Reparations for Slavery and Colonisation](https://www.jstor.org/stable/10.2979/transition.119.1.01#metadata_info_tab_contents).” *Transition* 119, Afro-Asian Worlds (2016): 1–5.
 
@@ -121,12 +127,18 @@ Decolonization and the French-Algerian war
 {{< tdclose >}}{{< tdopen >}}
 The nuclear tests in the Sahara
 {{< tdclose >}}{{< tdopen >}}
+
+*Reading*
+
 Panchasi, Roxanne. [“‘No Hiroshima in Africa’: The Algerian War and the Question of French Nuclear Tests in the Sahara.” (PDF)](https://roxannepanchasi15963656.files.wordpress.com/2019/12/historypresent.9.1.0084.pdf) *History of the Present* 9, no. 1 (2019): 84–113.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
 The law and claims for justice
 {{< tdclose >}}{{< tdopen >}}
+
+*Readings*
 
 Löytömäki, Stiina. “[The Law and Collective Memory of Colonialism: France and the Case of ‘Belated’ Transitional Justice](https://academic.oup.com/ijtj/article-abstract/7/2/205/723007).” *International Journal of Transitional Justice* 7, no. 2 (2013): 205–23.
 
@@ -147,6 +159,8 @@ No readings or videos assigned.
 {{< tdclose >}}{{< tdopen >}}
 Measuring harm
 {{< tdclose >}}{{< tdopen >}}
+
+*Readings*
 
 James, Erica Caple.  “[The Political Economy of ‘Trauma’ in Haiti in the Democratic Era of Insecurity](https://link.springer.com/article/10.1023/B:MEDI.0000034407.39471.d4).” *Culture, Medicine and Psychiatry* 28 (2004): 127–49.
 
