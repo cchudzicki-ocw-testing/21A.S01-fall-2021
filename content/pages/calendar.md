@@ -91,7 +91,9 @@ Reading responses due
 
 The nuclear tests in the Sahara
 
-Guest lecturer: [Prof. Damien Scalia](https://www.geneva-academy.ch/masters/master-in-transitional-justice/faculty/profile/245-damien-scalia), Université Libre de Bruxelles: “[Openings for Seeking Justice for Colonial Violence in Algeria](https://www.youtube.com/watch?v=2LbzSIwFtXw&t=1s).” YouTube.
+Guest lecturer: [Prof. Damien Scalia](https://www.geneva-academy.ch/masters/master-in-transitional-justice/faculty/profile/245-damien-scalia), Université Libre de Bruxelles.
+
+ “[Openings for Seeking Justice for Colonial Violence in Algeria](https://www.youtube.com/watch?v=2LbzSIwFtXw&t=1s).” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
@@ -153,7 +155,9 @@ Reading responses due
 
 Transitional justice and Belgium’s colonial past
 
-Guest speaker: Annah Moyo-Kupeta, human rights lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/)
+Guest lecturer: Annah Moyo-Kupeta, human rights lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/).
+
+“[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
