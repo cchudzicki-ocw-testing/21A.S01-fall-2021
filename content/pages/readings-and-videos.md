@@ -23,12 +23,14 @@ Introduction
  
 
 {{< tdclose >}}{{< tdopen >}}
-No readings or videos assigned
+No readings or videos assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
 Anthropology and social justice
 {{< tdclose >}}{{< tdopen >}}
+
+*Readings*
 
 Abu-Lughod, Lila. “Writing against Culture.” Chapter 8 in *Recapturing Anthropology: Working in the Present*. Edited by Richard G. Fox. School of American Research Press, 1991. ISBN: 9780933452787. 
 
@@ -59,6 +61,8 @@ Colonialism, Part 1: A very brief overview of European colonialism in Africa
 {{< tdclose >}}{{< tdopen >}}
 
 Shillington, Kevin. “[The Nineteenth Century, before the European ‘Scramble for Africa’](https://ebookcentral.proquest.com/lib/mit/reader.action?docID=6234905&ppg=267).” Section 7 in *History of Africa*. Red Globe Press, 2018. ISBN: ‎9781137504036. 
+
+Shillington, Kevin. “The Impact and Nature of Colonial Rule.” Section 9 in *History of Africa*. Red Globe Press, 2018. ISBN: ‎9781137504036. 
 
 Ekechi, Felix. “The Consolidation of European Rule, 1885–1914.” In *Africa, Vol 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 27–52. ISBN: ‎9780890897706. 
 
