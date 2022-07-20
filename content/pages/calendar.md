@@ -37,7 +37,7 @@ Reparations
 
 *What do we mean by reparations, reparative justice, and transitional justice? How do they differ? Why might they be/when are they necessary?*
 
-Guest speaker: Dr. Liliane Umubyeyi, [African Futures Action Lab](https://africanfutures.mit.edu/): “[What Do We Mean by Reparations?](https://www.youtube.com/watch?v=2feI17qlPOQ)” YouTube.
+Guest lecture: Dr. Liliane Umubyeyi, [African Futures Action Lab](https://africanfutures.mit.edu/): “[What Do We Mean by Reparations?](https://www.youtube.com/watch?v=2feI17qlPOQ)” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
