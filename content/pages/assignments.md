@@ -27,7 +27,7 @@ In addressing these questions, please engage meaningfully with at least 4 readin
 
 The paper should be 3–4 pages double spaced (1500–2000 words). For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
 
-The short paper will count for 15% of your final grade.
+The paper is due during session 7 and will count for 15% of your final grade.
 
 ## Case analyses: Algeria and Belgium
 
