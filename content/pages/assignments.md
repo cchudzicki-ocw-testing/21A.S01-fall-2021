@@ -23,8 +23,6 @@ This paper is meant as an opportunity for you to integrate the readings and argu
 
 In addressing these questions, please engage meaningfully with at least 4 readings from the past unit (meaningfully means not just listing the texts as citations, but rather discussing their arguments and bringing them to bear on your analysis) and include a bibliography. Papers will be graded on both argumentation (do you have a clear and coherent argument? How well does the evidence you provide support the argument you advance?) and the quality of your writing (paper organization, sentence structure, grammar, spelling, citations).
 
-## Case analysis: Algeria
-
-## Case analysis: Belgium
+## Case analyses: Algeria and Belgium
 
 You will work in small groups of 2–3 for the two case analyses (changing groups each time). In these write-ups, you will bring the anthropological readings and concepts we will have covered in the module to bear on each case in addressing the following questions: What would you recommend as special considerations for the activists as they undertake their claims process, given these texts? What questions emerge about the group’s claim and/or claim-making process? The idea is for these case analyses to extend the work that the two activist groups will have undergone towards their reparations claims and to serve as an additional resource to them.
