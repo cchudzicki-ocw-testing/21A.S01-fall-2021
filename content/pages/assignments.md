@@ -9,7 +9,9 @@ uid: 296c842d-58cb-4454-9eea-8185c5a41f76
 
 You will turn in a 200-word response to the assigned readings/films for each session. These responses are meant to help you synthesize and integrate the readings for your own learning (and give you a starting point for in-class discussion!), and also to help me gauge your understanding of the readings, what they brought up for you, etc., so that I might pitch classes at the right level. To that end, your responses should engage critically with the assigned materials: summarize the questions they raise and their key arguments, and lay out how the pieces relate to one another; state what remains unclear to you or leaves you perplexed, what questions the texts brought up for you, etc. 
 
-Of 16 possible reading responses, you must turn in 13 over the course of the semester. You will be graded on both the total number of responses and on their content. The responses will count for 20% of your final grade.
+Of 16 possible reading responses, you must turn in 13 over the course of the semester. You will be graded on both the total number of responses and on their content. 
+
+The responses will count for 20% of your final grade.
 
 ## Short Paper
 
@@ -22,6 +24,10 @@ This paper is meant as an opportunity for you to integrate the readings and argu
 - What would success look like, in your view? Why?
 
 In addressing these questions, please engage meaningfully with at least 4 readings from the past unit (meaningfully means not just listing the texts as citations, but rather discussing their arguments and bringing them to bear on your analysis) and include a bibliography. Papers will be graded on both argumentation (do you have a clear and coherent argument? How well does the evidence you provide support the argument you advance?) and the quality of your writing (paper organization, sentence structure, grammar, spelling, citations).
+
+The paper should be 3–4 pages double spaced (1500–2000 words). For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
+
+The short paper will count for 15% of your final grade.
 
 ## Case analyses: Algeria and Belgium
 
