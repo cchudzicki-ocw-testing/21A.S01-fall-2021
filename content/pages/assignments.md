@@ -29,6 +29,37 @@ The paper should be 3–4 pages double spaced (1500–2000 words). For citation 
 
 The paper is due during session 7 and will count for 15% of your final grade.
 
+## Case analysis - individual
+
+5 pages double-spaced, Times New Roman font size 12 (or equivalent), 1” margins
+
+Citation format: [https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html (Links to an external site.)](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
+
+For this case analysis, you are asked to bring the readings and concepts we have covered in the course so far to bear on the reparations case that you have been following. These case analyses are meant to serve as both a resource to the Algeria and Belgium working groups and for participants in future iterations for this course.
+
+Based on the readings and course discussions we have carried out so far, please include the following in your case analysis:
+
+- A summary of the events for which reparations are being/were sought
+- The bases for seeking reparations
+- The challenges that past efforts at seeking reparations for these crimes have faced
+- Special considerations that claimants might have/had as they move/d forward with claims
+- A discussion of how the claimants sought (what success or justice looked like for them) AND  of what success or justice should look like in your view, based on course materials and discussion
+- Questions about the case that remain open, or new questions that emerged from your analysis 
+
+Please use the following headings for the different sections of your paper:
+
+- Background: What needs/needed to be repaired 
+- Challenges to seeking reparations
+- Considerations for seeking reparations
+- What does/did and should success look like?
+- Remaining/emergent questions 
+
+Please use appropriate citations in your text and include a bibliography. Assume that your readers have not read the articles and other materials you reference, so please include enough information on these documents in your discussion for readers to be able to follow your discussion and argument.
+
+The paper should be 5 pages double spaced. For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
+
+The paper is due during session 20 and will count for xxx% of your final grade.
+
 ## Case analyses: Algeria and Belgium
 
 You will work in small groups of 2–3 for the two case analyses for Algeria and Belgium, respectively (changing groups each time). In these write-ups, you will bring the anthropological readings and concepts we will have covered in the module to bear on each case in addressing the following questions: What would you recommend as special considerations for the activists as they undertake their claims process, given these texts? What questions emerge about the group’s claim and/or claim-making process? The idea is for these case analyses to extend the work that the two activist groups will have undergone towards their reparations claims and to serve as an additional resource to them.
