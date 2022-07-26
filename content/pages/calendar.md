@@ -188,7 +188,11 @@ Race, Blackness, and political engagement across borders
 In-class visit with members of Belgium working group
 
 {{< tdclose >}}{{< tdopen >}}
+
 Reading responses due
+
+Individual case analysis due
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
