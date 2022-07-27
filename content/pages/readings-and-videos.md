@@ -146,9 +146,7 @@ Merry, Sally Engle. “[Human Rights Law and the Demonization of Culture (And An
 
 *Video*
 
-Guest lecture: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html). 
-
-“[State's Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
+Guest lecture: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html): “[State's Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -273,5 +271,15 @@ Keaton, Tricia Danielle. “‘Black (American) Paris’ and the French Outer-Ci
 *Video*
 
 [*Flâner webseries episode: “Gaëlle et Christelle”*](https://network.bfi.org.uk/postroom/network-picks/fl%C3%A2ner). Directed by Cecile Emeke. Color, 17 mins. 2014.
+
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+21
+{{< tdclose >}}{{< tdopen >}}
+Case workshop
+{{< tdclose >}}{{< tdopen >}}
+
+*Video*
+
+Guest lecture: Ornetta Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “Using Archives to Support Mobilizations for the Recognition of Belgium's Colonial Past.” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
