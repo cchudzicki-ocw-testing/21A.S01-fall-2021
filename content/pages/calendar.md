@@ -67,7 +67,7 @@ Reading responses due
 
 French colonization in Algeria and the case for reparations
 
-Guest lecture: [Dr. Noureddine Amara (PDF)](https://law.yale.edu/sites/default/files/area/center/kamel/amara_bio.pdf), Yale University: “Colonial crimes and the need for repair,” part 1
+Guest lecture: [Dr. Noureddine Amara (PDF)](https://law.yale.edu/sites/default/files/area/center/kamel/amara_bio.pdf), Yale University: “Colonial Crimes and the Need for Repair,” part 1
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -81,7 +81,7 @@ Short papers due
 
 Decolonization and the French-Algerian war
 
-Guest lecture: Dr. Noureddine Amara, Yale University: “Colonial crimes and the need for repair,” part 2
+Guest lecture: Dr. Noureddine Amara, Yale University: “Colonial Crimes and the Need for Repair,” Part 2
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
@@ -91,9 +91,7 @@ Reading responses due
 
 The nuclear tests in the Sahara
 
-Guest lecture: [Prof. Damien Scalia](https://www.geneva-academy.ch/masters/master-in-transitional-justice/faculty/profile/245-damien-scalia), Université Libre de Bruxelles.
-
- “[Openings for Seeking Justice for Colonial Violence in Algeria](https://www.youtube.com/watch?v=2LbzSIwFtXw&t=1s).” YouTube.
+Guest lecture: [Prof. Damien Scalia](https://www.geneva-academy.ch/masters/master-in-transitional-justice/faculty/profile/245-damien-scalia), Université Libre de Bruxelles: “[Openings for Seeking Justice for Colonial Violence in Algeria](https://www.youtube.com/watch?v=2LbzSIwFtXw&t=1s).” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
@@ -155,9 +153,7 @@ Reading responses due
 
 Transitional justice and Belgium’s colonial past
 
-Guest lecture: Annah Moyo-Kupeta, human rights lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/).
-
-“[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
+Guest lecture: Annah Moyo-Kupeta, human rights lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/).: “[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
