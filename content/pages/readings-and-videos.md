@@ -144,6 +144,10 @@ Löytömäki, Stiina. “[The Law and Collective Memory of Colonialism: France a
 
 Merry, Sally Engle. “[Human Rights Law and the Demonization of Culture (And Anthropology Along the Way.)](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/pol.2003.26.1.55)” *PoLar: Political and Legal Anthropology Review* 26, no. 1 (2003): 55–76.
 
+*Video*
+
+Guest lecturer: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html). “State's Responsibility for Historical Injustices before International Institutions / Courts.”  YouTube.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
