@@ -67,7 +67,7 @@ Reading responses due
 
 French colonization in Algeria and the case for reparations
 
-Guest lecture: [Dr. Noureddine Amara (PDF)](https://law.yale.edu/sites/default/files/area/center/kamel/amara_bio.pdf), Yale University: “Colonial Crimes and the Need for Repair,” part 1
+Guest lecture: [Dr. Noureddine Amara (PDF)](https://law.yale.edu/sites/default/files/area/center/kamel/amara_bio.pdf), Yale University: “Colonial Crimes and the Need for Repair,” Part 1
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -198,31 +198,19 @@ Belgium case analysis due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-
 Presentation by Algeria working group and discussion
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-
 Presentation by Belgium working group and discussion
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-
 Student presentations and course wrap-up
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
