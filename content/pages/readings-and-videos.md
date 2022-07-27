@@ -146,7 +146,9 @@ Merry, Sally Engle. “[Human Rights Law and the Demonization of Culture (And An
 
 *Video*
 
-Guest lecturer: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html). “State's Responsibility for Historical Injustices before International Institutions / Courts.”  YouTube.
+Guest lecture: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html). 
+
+“[State's Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
