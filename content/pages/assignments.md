@@ -11,8 +11,6 @@ You will turn in a 200-word response to the assigned readings/films for each ses
 
 Of 16 possible reading responses, you must turn in 13 over the course of the semester. You will be graded on both the total number of responses and on their content. 
 
-The responses will count for 15% of your final grade.
-
 ## Short Paper
 
 This paper is meant as an opportunity for you to integrate the readings and arguments we have discussed in the first unit of the course (through session 6). Using concrete examples from assigned readings to illustrate your points, please address the following questions:
@@ -27,9 +25,9 @@ In addressing these questions, please engage meaningfully with at least 4 readin
 
 The paper should be 3–4 pages double spaced (1500–2000 words). For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
 
-The paper is due during session 7 and will count for 15% of your final grade.
+The paper is due during session 7.
 
-## Case analysis - individual
+## Case Analysis - Individual
 
 5 pages double-spaced, Times New Roman font size 12 (or equivalent), 1” margins
 
@@ -58,9 +56,9 @@ Please use appropriate citations in your text and include a bibliography. Assume
 
 The paper should be 5 pages double spaced. For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
 
-The paper is due during session 20 and will count for xxx% of your final grade.
+The paper is due during session 20.
 
-## Case analyses: Algeria and Belgium
+## Case Analyses: Algeria and Belgium
 
 You will work in small groups of 2–3 for the two case analyses for Algeria and Belgium, respectively (changing groups each time). In these write-ups, you will bring the anthropological readings and concepts we will have covered in the module to bear on each case in addressing the following questions: What would you recommend as special considerations for the activists as they undertake their claims process, given these texts? What questions emerge about the group’s claim and/or claim-making process? The idea is for these case analyses to extend the work that the two activist groups will have undergone towards their reparations claims and to serve as an additional resource to them.
 
@@ -79,4 +77,4 @@ Please use appropriate citations in your text and include a bibliography. Assume
 
 Each case analysis should be 5 pages double-spaced, Times New Roman font size 12 (or equivalent), 1” margins. For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
 
-The Algeria case analysis is due during session 14.  The Belgium case analysis is due during session 21. Each will count for 15% of your final grade.
+The Algeria case analysis is due during session 14.  The Belgium case analysis is due during session 21.
