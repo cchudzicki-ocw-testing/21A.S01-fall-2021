@@ -29,10 +29,6 @@ The paper is due during session 7.
 
 ## Case Analysis - Individual
 
-5 pages double-spaced, Times New Roman font size 12 (or equivalent), 1” margins
-
-Citation format: [https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html (Links](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html (Links) to an external site.)
-
 For this case analysis, you are asked to bring the readings and concepts we have covered in the course so far to bear on the reparations case that you have been following. These case analyses are meant to serve as both a resource to the Algeria and Belgium working groups and for participants in future iterations for this course.
 
 Based on the readings and course discussions we have carried out so far, please include the following in your case analysis:
@@ -75,6 +71,6 @@ Based on the readings and course discussions we have carried out so far, please 
 
 Please use appropriate citations in your text and include a bibliography. Assume that your readers have not read the articles and other materials you reference, so please include enough information on these documents in your discussion for readers to be able to follow your discussion and argument.
 
-Each case analysis should be 5 pages double-spaced, Times New Roman font size 12 (or equivalent), 1” margins. For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
+Each case analysis should be 5 pages double-spaced. For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
 
 The Algeria case analysis is due during session 14.  The Belgium case analysis is due during session 21.
