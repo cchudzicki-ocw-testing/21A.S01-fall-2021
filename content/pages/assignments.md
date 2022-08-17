@@ -11,7 +11,7 @@ You will turn in a 200-word response to the assigned readings/films for each ses
 
 Of 16 possible reading responses, you must turn in 13 over the course of the semester. You will be graded on both the total number of responses and on their content. 
 
-The responses will count for 20% of your final grade.
+The responses will count for 15% of your final grade.
 
 ## Short Paper
 
@@ -33,7 +33,7 @@ The paper is due during session 7 and will count for 15% of your final grade.
 
 5 pages double-spaced, Times New Roman font size 12 (or equivalent), 1” margins
 
-Citation format: [https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html (Links to an external site.)](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
+Citation format: [https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html (Links](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html (Links) to an external site.)
 
 For this case analysis, you are asked to bring the readings and concepts we have covered in the course so far to bear on the reparations case that you have been following. These case analyses are meant to serve as both a resource to the Algeria and Belgium working groups and for participants in future iterations for this course.
 
