@@ -12,10 +12,8 @@ SESS #
 TOPICS
 {{< thclose >}}{{< thopen >}}
 READINGS AND VIDEOS
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **INTRODUCTION: KEY CONCEPTS**
-{{< tdclose >}}{{< tdopen colspan="2" >}}
- 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
