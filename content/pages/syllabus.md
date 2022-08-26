@@ -6,15 +6,15 @@ draft: false
 title: Syllabus
 uid: 7ae075f3-7113-4cca-8784-05f7598ddaf6
 ---
-### Course Meeting Times
+#### Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-### Prerequisites
+#### Prerequisites
 
 There are no prerequisites for this course.
 
-### Course Description
+#### Course Description
 
 This class brings anthropological concepts to bear on contemporary movements for justice for harms committed during European colonization in Africa. Over the course of the semester, we use critical readings on topics such as violence, human rights discourse, narrating and measuring harm, memory, and group identity formation to reflect on and contribute to the work of two groups of practitioners currently engaged in claims for justice and reparations for European colonialism in Africa: in Algeria (France), and in the Congo, Burundi, and Rwanda respectively (Belgium).
 
@@ -22,7 +22,7 @@ The first, introductory, part of the course provides a brief overview of Europea
 
 Readings are drawn primarily from anthropology, but also from history, political philosophy, and law. Through this combination of conceptual and applied work, students will contribute to current social justice efforts while also learning to articulate critical perspectives on movements for reparations for historical violence.
 
-### Course Requirements and Grading
+#### Course Requirements and Grading
 
 ACTIVITIES
 
@@ -47,7 +47,7 @@ GROUP GRADE
 
 For more information on the activities in the table, see the {{% resource_link "296c842d-58cb-4454-9eea-8185c5a41f76" "Assignments" %}} section.
 
-### Academic Integrity
+#### Academic Integrity
 
 MIT students are expected to adhere to the university’s [Academic Integrity](http://integrity.mit.edu/) policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.
 
