@@ -6,15 +6,15 @@ draft: false
 title: Syllabus
 uid: 7ae075f3-7113-4cca-8784-05f7598ddaf6
 ---
-## COURSE MEETING TIMES
+### Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-## PREREQUISITES
+### Prerequisites
 
 There are no prerequisites for this course.
 
-## COURSE DESCRIPTION
+### Course Description
 
 This class brings anthropological concepts to bear on contemporary movements for justice for harms committed during European colonization in Africa. Over the course of the semester, we use critical readings on topics such as violence, human rights discourse, narrating and measuring harm, memory, and group identity formation to reflect on and contribute to the work of two groups of practitioners currently engaged in claims for justice and reparations for European colonialism in Africa: in Algeria (France), and in the Congo, Burundi, and Rwanda respectively (Belgium).
 
@@ -22,13 +22,11 @@ The first, introductory, part of the course provides a brief overview of Europea
 
 Readings are drawn primarily from anthropology, but also from history, political philosophy, and law. Through this combination of conceptual and applied work, students will contribute to current social justice efforts while also learning to articulate critical perspectives on movements for reparations for historical violence.
 
-## Course Requirements and Grading
+### Course Requirements and Grading
 
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}{{< thopen >}}
+
 PERCENTAGES
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
 INDIVIDUAL GRADE 
 
@@ -37,9 +35,7 @@ INDIVIDUAL GRADE 
 - *Short paper on key concepts (3–4 pages) (15%)*
 - *In-class presentation of one assigned reading (10%)*
 
-{{< tdclose >}}{{< tdopen >}}
 55%
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 GROUP GRADE
 
@@ -47,20 +43,14 @@ GROUP GRADE
 - *Assignment 3 - Case analysis, Belgium (5 pages) (15%)*
 - *Final presentation (15%)*
 
-{{< tdclose >}}{{< tdopen >}}
 45%
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 For more information on the activities in the table, see the {{% resource_link "296c842d-58cb-4454-9eea-8185c5a41f76" "Assignments" %}} section.
 
-## Academic Integrity
+### Academic Integrity
 
 MIT students are expected to adhere to the university’s [Academic Integrity](http://integrity.mit.edu/) policies. All work (research papers, weekly papers, presentations) must be completed independently. Students are encouraged to discuss the readings and their projects with each other (they may, for example, want to practice their presentations for their classmates), but they are individually responsible for all written work.
 
 Violating the Academic Integrity policy in any way (e.g., plagiarism) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
 
 Please review the Academic Integrity policy and related resources (e.g., working under pressure; how to paraphrase, summarize, and quote; etc.) and contact me if you have any questions about appropriate citation methods, the degree of collaboration that is permitted, or anything else related to the Academic Integrity of this course.
-
-## The Writing and Communication Center
-
-[The Writing and Communication Center (WCC)](https://cmsw.mit.edu/writing-and-communication-center/) offers MIT students free one-on-one professional advice from communication experts with advanced degrees and publishing experience. The WCC can help you learn about all types of academic and professional writing and further develop your oral communication skills.
