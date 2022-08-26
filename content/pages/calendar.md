@@ -6,11 +6,11 @@ title: Calendar
 uid: d8e25c06-fb12-463b-a1e3-ae45fa0b4380
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-**SESS #**
+SESS #
 {{< thclose >}}{{< thopen >}}
-**TOPICS**
+TOPICS
 {{< thclose >}}{{< thopen >}}
-**KEY DUE DATES**
+KEY DUE DATES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **INTRODUCTION: KEY CONCEPTS**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
