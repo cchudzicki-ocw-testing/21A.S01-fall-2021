@@ -6,29 +6,23 @@ draft: false
 title: Readings and Videos
 uid: 9f4cd9da-d27b-4eab-8328-ac98de355060
 ---
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SESS #
-{{< thclose >}}{{< thopen >}}
+
 TOPICS
-{{< thclose >}}{{< thopen >}}
+
 READINGS AND VIDEOS
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
 **INTRODUCTION: KEY CONCEPTS**
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
 1
-{{< tdclose >}}{{< tdopen >}}
 
 Introduction
 
- 
-
-{{< tdclose >}}{{< tdopen >}}
 No readings or videos assigned.
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
 2
-{{< tdclose >}}{{< tdopen >}}
+
 Anthropology and social justice
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -36,13 +30,11 @@ Abu-Lughod, Lila. “Writing against Culture.” Chapter 8 in *Recapturing Anthr
 
 Mullings, Leith. [“Interrogating Racism: Toward an Antiracist Anthropology.” (PDF)](https://antropologiadeoutraforma.files.wordpress.com/2013/04/mullings-leith-interrogating-racism-toward-an-antiracist-anthropology.pdf) *Annual Review of Anthropology* 34 (2005): 667–93.
 
-Low, Setha M., and Sally Engle Merry. “[Engaged Anthropology: Diversity and Dilemmas](https://www.journals.uchicago.edu/doi/10.1086/653837).” *Current Anthropology* 51, no. 2 (2008): S203–S226.
+Low, Setha M., and Sally Engle Merry. “[Engaged Anthropology: Diversity and Dilemmas](https://www.journals.uchicago.edu/doi/10.1086/653837).” *Current Anthropology* 51, Supplement 2 (2008): S203–S226.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}{{< tdopen >}}
+
 Reparations
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -54,11 +46,9 @@ Scott, David. “[Preface: Debt, Redress](https://read.dukeupress.edu/small-axe/
 
 Listen to 1 episode of “[Reparations: The Big Payback](https://reparationsbigpayback.com/episode/episode-three-history-of-reparations/)” podcast.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}{{< tdopen >}}
+
 Colonialism, Part 1: A very brief overview of European colonialism in Africa
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -70,25 +60,21 @@ Ekechi, Felix. “The Consolidation of European Rule, 1885–1914.” In *Africa
 
 Oyebade, Adebayo. “Colonial Political Systems.” In *Africa, Vol 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 71–86. ISBN: ‎9780890897706. 
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}{{< tdopen >}}
+
 Colonialism, Part 2: Colonialism and violence
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
-Lazreg, Marnia.  (2008) “Introduction.” In *Torture and the Twilight of Empire: From Algiers to Baghdad*. Princeton University Press, 2016. ISBN: ‎9780691173481. \[Preview with [Google Books](https://www.google.com/books/edition/Torture_and_the_Twilight_of_Empire/ZuFKDQAAQBAJ?hl=en&gbpv=1)\]
+Lazreg, Marnia. “Introduction.” In *Torture and the Twilight of Empire: From Algiers to Baghdad*. Princeton University Press, 2016. ISBN: ‎9780691173481. \[Preview with [Google Books](https://www.google.com/books/edition/Torture_and_the_Twilight_of_Empire/ZuFKDQAAQBAJ?hl=en&gbpv=1)\]
 
 Fanon, Frantz. “On Violence.” Chapter 1 in *The Wretched of the Earth*. Translated from the French by Richard Philcox. Grove Press, 2021. ISBN: ‎9780802158635. \[Preview with [Google Books](https://www.google.com/books/edition/The_Wretched_of_the_Earth/-XGKFJq4eccC?hl=en&gbpv=1)\]
 
 Kaleck, Wolfgang. “On Double Standards and Emerging European Custom on Accountability for Colonial Crimes.” Chapter 1 in [*Colonial Wrongs and Access to International Law* (PDF - 6.2MB)](https://www.toaep.org/ps-pdf/40-bergsmo-kaleck-kyaw). Edited by Morten Bergsmo, Wolfgang Kaleck, and Kyaw Yin Hlaing. Torkel Opsahl Academic Epublisher, 2020, pp. 1–12. ISBN: ‎9788283481334. 
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}{{< tdopen >}}
+
 Reparations for colonialism
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -96,47 +82,39 @@ Serumaga, Mary. “[A Call for Reparations for Slavery and Colonisation](https:/
 
 Lu, Catherine. “[Colonialism as Structural Injustice: Historical Responsibility and Contemporary Redress](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9760.2011.00403.x).” *Journal of Political Philosophy* 19, no. 3 (2011): 261–81.
 
-Newton, Melanie J. “[Introduction: On History and Justice](https://read.dukeupress.edu/small-axe/article/18/1%20(43)/1/33317/Introduction-On-History-and-Justice).” *Small Axe* 43, no. 1 (2014): 1–6.
+Newton, Melanie J. “[Introduction: On History and Justice](https://read.dukeupress.edu/small-axe/article/18/1%20(43)/1/33317/Introduction-On-History-and-Justice).” *Small Axe* 18, no. 1 (43) (2014): 1–6.
 
 Méténier, Clémentine. “[Colonial Crimes: World Map of Justice Initiatives](https://www.justiceinfo.net/en/78677-colonial-crimes-world-map-justice-initiatives.html).” June 17, 2021. JusticeInfo.net.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **ALGERIA**
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
 7
-{{< tdclose >}}{{< tdopen >}}
+
 French colonization in Algeria and the case for reparations
-{{< tdclose >}}{{< tdopen >}}
 
 *Video*
 
 “[Chronicle of the Years of Fire](https://www.youtube.com/watch?v=s6MuVXQ9jWk).” YouTube.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}{{< tdopen >}}
+
 Decolonization and the French-Algerian war
-{{< tdclose >}}{{< tdopen >}}
 
 *Video*
 
 “[Algérie 1er jullet 1962: Boufarik](https://www.ina.fr/ina-eclaire-actu/video/caf97505619/algerie-1er-juillet-1962-boufarik-christian-fouchet).” ina.fr. (Farewell speech by Christian Fouchet, French High Commissioner, on the day of the Algerian referendum.)
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}{{< tdopen >}}
+
 The nuclear tests in the Sahara
-{{< tdclose >}}{{< tdopen >}}
 
 *Reading*
 
-Panchasi, Roxanne. [“‘No Hiroshima in Africa’: The Algerian War and the Question of French Nuclear Tests in the Sahara.” (PDF)](https://roxannepanchasi15963656.files.wordpress.com/2019/12/historypresent.9.1.0084.pdf) *History of the Present* 9, no. 1 (2019): 84–113.
+Panchasi, Roxanne. [“‘No Hiroshima in Africa’: The Algerian War and the Question of French Nuclear Tests in the Sahara.” (PDF)](https://roxannepanchasi15963656.files.wordpress.com/2019/12/historypresent.9.1.0084.pdf) *History of the Present* 9, no. 1 (2019): 84–112.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}{{< tdopen >}}
+
 The law and claims for justice
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -148,21 +126,15 @@ Merry, Sally Engle. “[Human Rights Law and the Demonization of Culture (And An
 
 Guest lecture: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html): “[State's Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}{{< tdopen >}}
 
 Case workshop (narrative, legal instruments, defining the crime)
 
- 
-
-{{< tdclose >}}{{< tdopen >}}
 No readings or videos assigned.
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
 12
-{{< tdclose >}}{{< tdopen >}}
+
 Measuring harm
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -172,23 +144,21 @@ Petryna, Adriana. “[Nuclear Payouts: Knowledge and Compensation in the Chernob
 
 Darity, William Jr. “[Forty Acres and a Mule in the 21st Century](https://www.jstor.org/stable/42956508#metadata_info_tab_contents).” *Social Science Quarterly* 89, no. 3 (2008), 656–64.
 
-Kenya Human Rights Commission. “[The Mau Mau Settlement: Setting the Record Straight](https://www.khrc.or.ke/2015-03-04-10-37-01/press-releases/404-the-mau-mau-settlement-setting-the-record-straight.html).” June 13, 2013. Kenya Human Rights Commission.
+“[The Mau Mau Settlement: Setting the Record Straight](https://www.khrc.or.ke/2015-03-04-10-37-01/press-releases/404-the-mau-mau-settlement-setting-the-record-straight.html).” June 13, 2013. Kenya Human Rights Commission.
 
 “[The Mau Mau Claims](https://www.leighday.co.uk/latest-updates/cases-and-testimonials/cases/the-mau-mau-claims/).” Leigh Day.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}{{< tdopen >}}
+
 Case workshop (measuring harm)
-{{< tdclose >}}{{< tdopen >}}
+
 No readings or videos assigned.
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+
 **BELGIUM**
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
 14
-{{< tdclose >}}{{< tdopen >}}
+
 Belgium’s colonial past
-{{< tdclose >}}{{< tdopen >}}
 
 *Reading*
 
@@ -198,11 +168,9 @@ Fraiture, Pierre-Philippe. “Belgium and Its Colonies: Introduction.” In *A H
 
 [*Lumumba: Death of a Prophet*](https://www.imdb.com/title/tt0104775/). Directed by Raoul Peck. Black and White, Color, 69 min. 1991.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}{{< tdopen >}}
+
 Colonial legacy and African diasporas in Belgium, Part 1
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -210,11 +178,9 @@ Human Rights Council. [“Visit to Belgium: Report of the Working Group of Exper
 
 Demart, Sarah. “[Congolese Migration to Belgium and Postcolonial Perspectives](https://brill.com/view/journals/afdi/6/1/article-p1_1.xml?language=en).” *African Diaspora* 6, no. 1 (2013): 1–20.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}{{< tdopen >}}
+
 Transitional justice and Belgium’s colonial past
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -224,11 +190,9 @@ van der Merwe, Hugo, and M. Brinton Lykes.  “[Racism and Transitional Justice
 
 “[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past - Annah Moyo-Kupeta](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}{{< tdopen >}}
+
 Colonial legacy and African diasporas in Belgium, Part 2
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
@@ -236,50 +200,42 @@ Hall, Stuart. “Cultural Identity and Diaspora.” In *Identity: Community,  C
 
 Gregoire, Nicole. “[Identity Politics, Social Movement and the State: ‘Pan-African’ Associations and the Making of an ‘African Community’ in Belgium](https://brill.com/view/journals/afdi/3/1/article-p159_9.xml).” *African Diaspora* 3, no. 1 (2010): 159–81.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}{{< tdopen >}}
+
 Case workshop
-{{< tdclose >}}{{< tdopen >}}
+
 No readings or videos assigned.
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
 19
-{{< tdclose >}}{{< tdopen >}}
+
 Race and identity in Europe
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
-El-Tayeb, Fatima. “[‘The Birth of a European Public’: Migration, Postnationality, and Race in the Uniting of Europe](https://muse.jhu.edu/article/249051).” *American Quarterly* 6, no. 3 (2008), 649–70.
+El-Tayeb, Fatima. “[‘The Birth of a European Public’: Migration, Postnationality, and Race in the Uniting of Europe](https://muse.jhu.edu/article/249051).” *American Quarterly* 60, no. 3 (2008), 649–70.
 
 Small, Stephen. [“Theorizing Visibility and Vulnerability in Black Europe and the African Diaspora.” (PDF - 1.2MB)](https://cemfor.uu.se/digitalAssets/711/c_711726-l_3-k_5theorizing-visibility-and-vulnerability-in-black-europe-and-the-african-diaspora.pdf) *Ethnic and Racial Studies* 41, no. 6 (2018): 1182–97.
 
 Otele, Olivette. “Identity and Liberation: African Europeans Today.” Chapter 7 in *African Europeans: An Untold History*. Basic Books, 2021. ISBN: ‎9781541619678. \[Preview with [Google Books](https://www.google.com/books/edition/African_Europeans/2qj7DwAAQBAJ?hl=en&gbpv=1)\]
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}{{< tdopen >}}
+
 Race, Blackness, and political engagement across borders
-{{< tdclose >}}{{< tdopen >}}
 
 *Readings*
 
 Mulings, Leith. “[Race and Globalization](https://www.tandfonline.com/doi/abs/10.1080/10999940490506979).” *Souls* 6, no. 2 (2004): 1–9.
 
-Keaton, Tricia Danielle. “‘Black (American) Paris’ and the French Outer-Cities: The Race Question and Questioning Solidarity.” Chapter 6 in *Black Europe and its African Diaspora*. Edited by Darlene Clark, Trica Danielle Keaton, and Stephen Small. University of Illinois Press, 2009. ISBN: ‎9780252076572. \[Preview with [Google Books](https://www.google.com/books/edition/Black_Europe_and_the_African_Diaspora/YH-DgrHLu1UC?hl=en&gbpv=1)\]
+Keaton, Tricia Danielle. “‘Black (American) Paris’ and the French Outer-Cities: The Race Question and Questioning Solidarity.” Chapter 6 in *Black Europe and the African Diaspora*. Edited by Darlene Clark Hine, Trica Danielle Keaton, and Stephen Small. University of Illinois Press, 2009. ISBN: ‎9780252076572. \[Preview with [Google Books](https://www.google.com/books/edition/Black_Europe_and_the_African_Diaspora/YH-DgrHLu1UC?hl=en&gbpv=1)\]
 
 *Video*
 
 [*Flâner webseries episode: “Gaëlle et Christelle”*](https://network.bfi.org.uk/postroom/network-picks/fl%C3%A2ner). Directed by Cecile Emeke. Color, 17 mins. 2014.
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}{{< tdopen >}}
+
 Case workshop
-{{< tdclose >}}{{< tdopen >}}
 
 *Video*
 
-Guest lecture: Ornetta Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “Using Archives to Support Mobilizations for the Recognition of Belgium's Colonial Past.” YouTube.
-
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+Guest lecture: Ornetta Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “[Using Archives to Support Mobilizations for the Recognition of Belgium's Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
