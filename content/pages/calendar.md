@@ -5,13 +5,13 @@ draft: false
 title: Calendar
 uid: d8e25c06-fb12-463b-a1e3-ae45fa0b4380
 ---
-{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 **SESS #**
-{{< tdclose >}}{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 **TOPICS**
-{{< tdclose >}}{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 **KEY DUE DATES**
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **INTRODUCTION: KEY CONCEPTS**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
@@ -100,11 +100,7 @@ Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-
 Case workshop (narrative, legal instruments, defining the crime)
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -194,31 +190,19 @@ Belgium case analysis due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-
 Presentation by Algeria working group and discussion
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-
 Presentation by Belgium working group and discussion
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-
 Student presentations and course wrap-up
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
