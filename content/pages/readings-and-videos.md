@@ -17,11 +17,7 @@ READINGS AND VIDEOS
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-
 Introduction
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
 No readings or videos assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -153,11 +149,7 @@ Guest lecture: Kelly Picard, Assistant Professor of Law, [Université Jean Monne
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-
 Case workshop (narrative, legal instruments, defining the crime)
-
- 
-
 {{< tdclose >}}{{< tdopen >}}
 No readings or videos assigned.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
