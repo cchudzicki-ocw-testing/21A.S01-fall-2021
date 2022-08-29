@@ -24,9 +24,11 @@ Readings are drawn primarily from anthropology, but also from history, political
 
 #### Course Requirements and Grading
 
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
 INDIVIDUAL GRADE 
 
@@ -35,7 +37,9 @@ INDIVIDUAL GRADE 
 - *Short paper on key concepts (3–4 pages) (15%)*
 - *In-class presentation of one assigned reading (10%)*
 
+{{< tdclose >}}{{< tdopen >}}
 55%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 GROUP GRADE
 
@@ -43,7 +47,9 @@ GROUP GRADE
 - *Assignment 3 - Case analysis, Belgium (5 pages) (15%)*
 - *Final presentation (15%)*
 
+{{< tdclose >}}{{< tdopen >}}
 45%
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 For more information on the activities in the table, see the {{% resource_link "296c842d-58cb-4454-9eea-8185c5a41f76" "Assignments" %}} section.
 
