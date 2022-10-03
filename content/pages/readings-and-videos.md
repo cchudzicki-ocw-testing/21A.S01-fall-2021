@@ -142,10 +142,6 @@ Löytömäki, Stiina. “[The Law and Collective Memory of Colonialism: France a
 
 Merry, Sally Engle. “[Human Rights Law and the Demonization of Culture (And Anthropology Along the Way.)](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/pol.2003.26.1.55)” *PoLar: Political and Legal Anthropology Review* 26, no. 1 (2003): 55–76.
 
-*Video*
-
-Guest lecture: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html): “[State's Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -237,7 +233,11 @@ Gregoire, Nicole. “[Identity Politics, Social Movement and the State: ‘Pan-A
 {{< tdclose >}}{{< tdopen >}}
 Case workshop
 {{< tdclose >}}{{< tdopen >}}
-No readings or videos assigned.
+
+*Video*
+
+Guest lecture: Ornetta Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “[Using Archives to Support Mobilizations for the Recognition of Belgium's Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
@@ -273,9 +273,5 @@ Keaton, Tricia Danielle. “‘Black (American) Paris’ and the French Outer-Ci
 {{< tdclose >}}{{< tdopen >}}
 Case workshop
 {{< tdclose >}}{{< tdopen >}}
-
-*Video*
-
-Guest lecture: Ornetta Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “[Using Archives to Support Mobilizations for the Recognition of Belgium's Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
-
+No readings or videos assigned.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
