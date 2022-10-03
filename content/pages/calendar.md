@@ -94,7 +94,11 @@ Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
+
 The law and claims for justice
+
+Guest lecture: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html): “ [State’s Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
+
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -158,7 +162,11 @@ Reading responses due 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
+
 Case workshop
+
+Guest lecture: Ornetta Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “ [Using Archives to Support Mobilizations for the Recognition of Belgium’s Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
