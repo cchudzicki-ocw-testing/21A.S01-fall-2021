@@ -60,7 +60,7 @@ Colonialism, Part 1: A very brief overview of European colonialism in Africa
 
 Shillington, Kevin. “The Nineteenth Century, before the European ‘Scramble for Africa’.” Section 7 in *History of Africa*. 4th ed. Red Globe Press, 2018. ISBN: ‎9781137504036. \[Preview with [Google Books](https://www.google.com/books/edition/History_of_Africa/rxtHEAAAQBAJ?hl=en&gbpv=1)\]
 
- — — —. “The Impact and Nature of Colonial Rule, 1890–1945.” Section 9 in *History of Africa*. 4th ed. Red Globe Press, 2018. ISBN: ‎9781137504036. \[Preview with [Google Books](https://www.google.com/books/edition/History_of_Africa/rxtHEAAAQBAJ?hl=en&gbpv=1)\]
+ ———. “The Impact and Nature of Colonial Rule, 1890–1945.” Section 9 in *History of Africa*. 4th ed. Red Globe Press, 2018. ISBN: ‎9781137504036. \[Preview with [Google Books](https://www.google.com/books/edition/History_of_Africa/rxtHEAAAQBAJ?hl=en&gbpv=1)\]
 
 Ekechi, Felix. “The Consolidation of European Rule, 1885–1914.” In *Africa, Vol 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 27–52. ISBN: ‎9780890897706. 
 
