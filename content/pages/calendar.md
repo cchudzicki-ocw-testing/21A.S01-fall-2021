@@ -6,7 +6,7 @@ title: Calendar
 uid: d8e25c06-fb12-463b-a1e3-ae45fa0b4380
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-SESS #
+SES #
 {{< thclose >}}{{< thopen >}}
 TOPICS
 {{< thclose >}}{{< thopen >}}
