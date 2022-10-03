@@ -145,7 +145,7 @@ Reading responses due
 
 Transitional justice and Belgium’s colonial past
 
-Guest lecture: Annah Moyo-Kupeta, human rights lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/).: “[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
+Guest lecture: Annah Moyo-Kupeta, human rights lawyer, [Centre for the Study of Violence and Reconciliation](https://www.csvr.org.za/): “[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
