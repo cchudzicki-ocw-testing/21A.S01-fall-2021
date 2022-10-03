@@ -7,7 +7,7 @@ title: Readings and Videos
 uid: 9f4cd9da-d27b-4eab-8328-ac98de355060
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-SESS #
+SES #
 {{< thclose >}}{{< thopen >}}
 TOPICS
 {{< thclose >}}{{< thopen >}}
