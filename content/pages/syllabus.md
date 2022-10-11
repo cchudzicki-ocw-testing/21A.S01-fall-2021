@@ -59,4 +59,4 @@ MIT students are expected to adhere to the university’s [Academic Integrity](h
 
 Violating the Academic Integrity policy in any way (e.g., plagiarism) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
 
-Please review the Academic Integrity policy and related resources (e.g., working under pressure; how to paraphrase, summarize, and quote; etc.) and contact me if you have any questions about appropriate citation methods, the degree of collaboration that is permitted, or anything else related to the Academic Integrity of this course.
+Please review the Academic Integrity policy and related resources (e.g., working under pressure; how to paraphrase, summarize, and quote; etc.) and contact me if you have any questions about appropriate citation methods, the degree of collaboration that is permitted, or anything else related to the academic integrity of this course.
