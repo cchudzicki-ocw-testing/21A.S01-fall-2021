@@ -53,7 +53,7 @@ Listen to 1 episode of “[Reparations: The Big Payback](https://reparationsbigp
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Colonialism, Part 1: A very brief overview of European colonialism in Africa
+Colonialism, part 1: A very brief overview of European colonialism in Africa
 {{< tdclose >}}{{< tdopen >}}
 
 *Readings*
@@ -69,7 +69,7 @@ Oyebade, Adebayo. “Colonial Political Systems.” In *Africa, Vol 3: Colonial 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Colonialism, Part 2: Colonialism and violence
+Colonialism, part 2: Colonialism and violence
 {{< tdclose >}}{{< tdopen >}}
 
 *Readings*
@@ -197,7 +197,7 @@ Fraiture, Pierre-Philippe. “Belgium and Its Colonies: Introduction.” In *A H
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Colonial legacy and African diasporas in Belgium, Part 1
+Colonial legacy and African diasporas in Belgium, part 1
 {{< tdclose >}}{{< tdopen >}}
 
 *Readings*
@@ -223,7 +223,7 @@ van der Merwe, Hugo, and M. Brinton Lykes.  “[Racism and Transitional Justice
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
-Colonial legacy and African diasporas in Belgium, Part 2
+Colonial legacy and African diasporas in Belgium, part 2
 {{< tdclose >}}{{< tdopen >}}
 
 *Readings*
