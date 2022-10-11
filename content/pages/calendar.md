@@ -165,7 +165,7 @@ Reading responses due 
 
 Case workshop
 
-Guest lecture: Ornetta Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “ [Using Archives to Support Mobilizations for the Recognition of Belgium’s Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
+Guest lecture: Ornella Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “ [Using Archives to Support Mobilizations for the Recognition of Belgium’s Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
  
