@@ -62,9 +62,9 @@ Shillington, Kevin. “The Nineteenth Century, before the European ‘Scramble f
 
  ———. “The Impact and Nature of Colonial Rule, 1890–1945.” Section 9 in *History of Africa*. 4th ed. Red Globe Press, 2018. ISBN: ‎9781137504036. \[Preview with [Google Books](https://www.google.com/books/edition/History_of_Africa/rxtHEAAAQBAJ?hl=en&gbpv=1)\]
 
-Ekechi, Felix. “The Consolidation of European Rule, 1885–1914.” In *Africa, Vol 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 27–52. ISBN: ‎9780890897706. 
+Ekechi, Felix. “The Consolidation of European Rule, 1885–1914.” In *Africa, Vol. 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 27–52. ISBN: ‎9780890897706. 
 
-Oyebade, Adebayo. “Colonial Political Systems.” In *Africa, Vol 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 71–86. ISBN: ‎9780890897706. 
+Oyebade, Adebayo. “Colonial Political Systems.” In *Africa, Vol. 3: Colonial Africa, 1885–1939*. Edited by Toyin Falola. Carolina Academic Press, 2001, pp. 71–86. ISBN: ‎9780890897706. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -118,7 +118,7 @@ Decolonization and the French-Algerian war
 
 *Video*
 
-“[Algérie 1er jullet 1962: Boufarik](https://www.ina.fr/ina-eclaire-actu/video/caf97505619/algerie-1er-juillet-1962-boufarik-christian-fouchet).” ina.fr. (Farewell speech by Christian Fouchet, French High Commissioner, on the day of the Algerian referendum.)
+“[Algérie 1er juillet 1962: Boufarik](https://www.ina.fr/ina-eclaire-actu/video/caf97505619/algerie-1er-juillet-1962-boufarik-christian-fouchet).” ina.fr. (Farewell speech by Christian Fouchet, French High Commissioner, on the day of the Algerian referendum.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -188,7 +188,7 @@ Belgium’s colonial past
 
 *Reading*
 
-Fraiture, Pierre-Philippe. “Belgium and Its Colonies: Introduction.” In *A Historical Companion to Postcolonial Literatures-Continental Europe and its Empires.* Edited by Prem Poddar, Rajeev S. Patke, and Lars Jensen. Edinburgh University Press, 2011, pp. 7–11. ISBN: ‎9780748644827.  \[Preview with [Google Books](https://www.google.com/books/edition/Historical_Companion_to_Postcolonial_Lit/HfPcCQAAQBAJ?hl=en&gbpv=1)\]
+Fraiture, Pierre-Philippe. “Belgium and Its Colonies: Introduction.” In *A Historical Companion to Postcolonial Literatures: Continental Europe and its Empires.* Edited by Prem Poddar, Rajeev S. Patke, and Lars Jensen. Edinburgh University Press, 2011, pp. 7–11. ISBN: ‎9780748644827.  \[Preview with [Google Books](https://www.google.com/books/edition/Historical_Companion_to_Postcolonial_Lit/HfPcCQAAQBAJ?hl=en&gbpv=1)\]
 
 *Video*
 
@@ -218,7 +218,7 @@ van der Merwe, Hugo, and M. Brinton Lykes.  “[Racism and Transitional Justice
 
 *Video*
 
-“[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past - Annah Moyo-Kupeta](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
+“[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past - Annah Moyo](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -240,7 +240,7 @@ Case workshop
 
 *Video*
 
-Ornetta Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “[Using Archives to Support Mobilizations for the Recognition of Belgium's Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
+Ornella Rovetta, Postdoctoral Researcher, [Université Libre de Bruxelles](https://www.ulb.be/en): “[Using Archives to Support Mobilizations for the Recognition of Belgium's Colonial Past](https://www.youtube.com/watch?v=ml4vCR0_4io).” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
