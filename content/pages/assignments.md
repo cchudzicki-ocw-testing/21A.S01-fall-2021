@@ -37,7 +37,7 @@ Based on the readings and course discussions we have carried out so far, please 
 - The bases for seeking reparations
 - The challenges that past efforts at seeking reparations for these crimes have faced
 - Special considerations that claimants might have/had as they move/d forward with claims
-- A discussion of how the claimants sought (what success or justice looked like for them) AND  of what success or justice should look like in your view, based on course materials and discussion
+- A discussion of how the claimants sought (what success or justice looked like for them) AND of what success or justice should look like in your view, based on course materials and discussion
 - Questions about the case that remain open, or new questions that emerged from your analysis 
 
 Please use the following headings for the different sections of your paper:
@@ -73,4 +73,4 @@ Please use appropriate citations in your text and include a bibliography. Assume
 
 Each case analysis should be 5 pages double-spaced. For citation format, visit [Author-Date: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) on the Chicago Manual of Style *Online*.
 
-The Algeria case analysis is due during session 14.  The Belgium case analysis is due during session 21.
+The Algeria case analysis is due during session 14. The Belgium case analysis is due during session 21.
