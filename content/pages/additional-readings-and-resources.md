@@ -14,7 +14,7 @@ Méheut, Constant. “[Report Aims at ‘Reconciling’ France and Algeria, Its 
 
 “[Made in Algeria: Genealogy of a Territory](https://www.mucem.org/programme/exposition-et-temps-forts/made-algeria)” online exhibit, MUCEM - Museums of Civilizations of Europe and the Mediterranean.
 
-“[The Battle of Algiers](https://www.youtube.com/watch?v=vRE3j8pDMds).” (1966).  YouTube.
+“[The Battle of Algiers](https://www.youtube.com/watch?v=vRE3j8pDMds).” (1966). YouTube.
 
 Drif, Zora. Excerpts from *Inside the Battle of Algiers: Memoir of a Woman Freedom Fighter*. Just World Books, 2017. ISBN: ‎9781682570753. 
 
