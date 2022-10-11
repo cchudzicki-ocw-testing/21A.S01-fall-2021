@@ -35,7 +35,9 @@
   },
   "learning_resource_types": [
     "Readings",
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights",
+    "Videos"
   ],
   "site_uid": "86014005-7fa7-4d99-9a7b-cb045f53f517"
 }
