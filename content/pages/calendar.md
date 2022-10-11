@@ -140,7 +140,7 @@ Algeria case analysis due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Colonial legacy and African diasporas in Belgium, Part 1
+Colonial legacy and African diasporas in Belgium, part 1
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -156,7 +156,7 @@ Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
-Colonial legacy and African diasporas in Belgium, Part 2
+Colonial legacy and African diasporas in Belgium, part 2
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
