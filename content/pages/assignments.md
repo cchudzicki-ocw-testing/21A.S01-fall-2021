@@ -36,7 +36,7 @@ Based on the readings and course discussions we have carried out so far, please 
 - A summary of the events for which reparations are being/were sought
 - The bases for seeking reparations
 - The challenges that past efforts at seeking reparations for these crimes have faced
-- Special considerations that claimants might have/had as they move/d forward with claims
+- Special considerations that claimants might have/had as they moved forward with claims
 - A discussion of how the claimants sought (what success or justice looked like for them) AND of what success or justice should look like in your view, based on course materials and discussion
 - Questions about the case that remain open, or new questions that emerged from your analysis 
 
