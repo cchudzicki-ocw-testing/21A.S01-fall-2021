@@ -18,7 +18,7 @@ Méheut, Constant. “[Report Aims at ‘Reconciling’ France and Algeria, Its 
 
 Drif, Zora. Excerpts from *Inside the Battle of Algiers: Memoir of a Woman Freedom Fighter*. Just World Books, 2017. ISBN: ‎9781682570753. 
 
-Lazreg, Marnia. “[Algeria as Template: Torture and Counter-Insurgency War](https://www.proquest.com/docview/866741329?pq-origsite=gscholar&fromopenview=true).” *Global Dialogue (Online)* 12, no. 1 (2010):  1–10.
+Lazreg, Marnia. “[Algeria as Template: Torture and Counter-Insurgency War](https://www.proquest.com/docview/866741329?pq-origsite=gscholar&fromopenview=true).” *Global Dialogue (Online)* 12, no. 1 (2010): 1–10.
 
 Bonilla, Yarimar. [“Unsettling Sovereignty.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.14506/ca32.3.02) *Cultural Anthropology* 32, no. 3 (2017): 330–39.
 
