@@ -31,22 +31,22 @@ Reading responses due
 
 Reparations
 
-*What do we mean by reparations, reparative justice, and transitional justice? How do they differ? Why might they be/when are they necessary?*
+*What do we mean by reparations, reparative justice, and transitional justice? How do they differ? Why might they be / when are they necessary?*
 
-Guest lecture: Dr. Liliane Umubyeyi, [African Futures Action Lab](https://africanfutures.mit.edu/): “[What Do We Mean by Reparations?](https://www.youtube.com/watch?v=2feI17qlPOQ)” YouTube.
+Guest lecture: Dr. Liliane Umubyeyi, [African Futures Lab](https://africanfutures.mit.edu/): “[What Do We Mean by Reparations?](https://www.youtube.com/watch?v=2feI17qlPOQ)” YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Colonialism, Part 1: A very brief overview of European colonialism in Africa
+Colonialism, part 1: A very brief overview of European colonialism in Africa
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Colonialism, Part 2: Colonialism and violence
+Colonialism, part 2: Colonialism and violence
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -63,7 +63,7 @@ Reading responses due
 
 French colonization in Algeria and the case for reparations
 
-Guest lecture: Dr. Noureddine Amara, Yale University: “Colonial Crimes and the Need for Repair,” Part 1
+Guest lecture: Dr. Noureddine Amara, Yale University: “Colonial Crimes and the Need for Repair,” part 1
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -77,7 +77,7 @@ Short papers due
 
 Decolonization and the French-Algerian war
 
-Guest lecture: Dr. Noureddine Amara, Yale University: “Colonial Crimes and the Need for Repair,” Part 2
+Guest lecture: Dr. Noureddine Amara, Yale University: “Colonial Crimes and the Need for Repair,” part 2
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
@@ -97,7 +97,7 @@ Reading responses due
 
 The law and claims for justice
 
-Guest lecture: Kelly Picard, Assistant Professor of Law, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html): “ [State’s Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
+Guest lecture: Prof. Kelly Picard, [Université Jean Monnet, Saint Etienne](https://www.univ-st-etienne.fr/fr/index.html): “ [State’s Responsibility for Historical Injustices before International Institutions / Courts](https://www.youtube.com/watch?v=fdZ7IFpSo_k).”  YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Reading responses due
