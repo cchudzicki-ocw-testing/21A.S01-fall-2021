@@ -218,7 +218,7 @@ van der Merwe, Hugo, and M. Brinton Lykes.  “[Racism and Transitional Justice
 
 *Video*
 
-“[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past - Annah Moyo-Kupeta](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
+“[Relevance of a Transitional Justice Framework to Address Belgium’s Colonial Past - Annah Moyo](https://www.youtube.com/watch?v=X9xv3ISHN7M).” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
